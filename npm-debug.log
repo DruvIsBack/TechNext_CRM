@@ -1,0 +1,2011 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/.bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'react' ]
+2 info using npm@2.15.12
+3 info using node@v10.14.1
+4 verbose install initial load of /home/anirban/IdeaProjects/TNTS_CRM_2/package.json
+5 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/Base64/package.json
+6 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/JSONStream/package.json
+7 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/abbrev/package.json
+8 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/accord/package.json
+9 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/acorn/package.json
+10 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/acorn-dynamic-import/package.json
+11 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/acorn-node/package.json
+12 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/acorn-walk/package.json
+13 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ajv/package.json
+14 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/align-text/package.json
+15 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/alter/package.json
+16 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/amdefine/package.json
+17 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ansi-cyan/package.json
+18 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ansi-gray/package.json
+19 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ansi-red/package.json
+20 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ansi-regex/package.json
+21 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ansi-styles/package.json
+22 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ansi-wrap/package.json
+23 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/aproba/package.json
+24 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/archy/package.json
+25 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/are-we-there-yet/package.json
+26 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/arr-diff/package.json
+27 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/arr-flatten/package.json
+28 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/arr-union/package.json
+29 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/array-differ/package.json
+30 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/array-each/package.json
+31 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/array-find-index/package.json
+32 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/array-slice/package.json
+33 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/array-union/package.json
+34 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/array-uniq/package.json
+35 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/array-unique/package.json
+36 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/arrify/package.json
+37 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/asap/package.json
+38 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/asn1/package.json
+39 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/asn1.js/package.json
+40 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/assert/package.json
+41 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/assert-plus/package.json
+42 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/assign-symbols/package.json
+43 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ast-traverse/package.json
+44 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ast-types/package.json
+45 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/astw/package.json
+46 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/async/package.json
+47 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/async-foreach/package.json
+48 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/asynckit/package.json
+49 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/atob/package.json
+50 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/autoprefixer-core/package.json
+51 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/aws-sign2/package.json
+52 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/aws4/package.json
+53 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-core/package.json
+54 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-constant-folding/package.json
+55 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-dead-code-elimination/package.json
+56 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-eval/package.json
+57 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-inline-environment-variables/package.json
+58 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-jscript/package.json
+59 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-member-expression-literals/package.json
+60 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-property-literals/package.json
+61 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-proto-to-assign/package.json
+62 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-react-constant-elements/package.json
+63 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-react-display-name/package.json
+64 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-remove-console/package.json
+65 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-remove-debugger/package.json
+66 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-runtime/package.json
+67 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-undeclared-variables-check/package.json
+68 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babel-plugin-undefined-to-void/package.json
+69 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babelify/package.json
+70 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/babylon/package.json
+71 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/balanced-match/package.json
+72 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/base/package.json
+73 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/base64-js/package.json
+74 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/bcrypt-pbkdf/package.json
+75 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/beeper/package.json
+76 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/bl/package.json
+77 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/block-stream/package.json
+78 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/bluebird/package.json
+79 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/bn.js/package.json
+80 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/boom/package.json
+81 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/brace-expansion/package.json
+82 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/braces/package.json
+83 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/breakable/package.json
+84 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/brorand/package.json
+85 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browser-pack/package.json
+86 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browser-resolve/package.json
+87 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browserify/package.json
+88 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browserify-aes/package.json
+89 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browserify-cipher/package.json
+90 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browserify-des/package.json
+91 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browserify-rsa/package.json
+92 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browserify-sign/package.json
+93 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/browserify-zlib/package.json
+94 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/buffer/package.json
+95 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/buffer-xor/package.json
+96 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/bufferstreams/package.json
+97 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/builtin-modules/package.json
+98 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/builtins/package.json
+99 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/cache-base/package.json
+100 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/camelcase/package.json
+101 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/camelcase-keys/package.json
+102 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/caniuse-db/package.json
+103 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/caseless/package.json
+104 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/center-align/package.json
+105 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/chalk/package.json
+106 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/cipher-base/package.json
+107 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/class-utils/package.json
+108 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/clean-css/package.json
+109 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/cliui/package.json
+110 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/clone/package.json
+111 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/clone-buffer/package.json
+112 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/clone-stats/package.json
+113 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/cloneable-readable/package.json
+114 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/co/package.json
+115 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/code-point-at/package.json
+116 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/coffeescript/package.json
+117 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/collection-visit/package.json
+118 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/color-support/package.json
+119 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/combine-source-map/package.json
+120 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/combined-stream/package.json
+121 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/commander/package.json
+122 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/commondir/package.json
+123 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/commoner/package.json
+124 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/component-emitter/package.json
+125 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/concat-map/package.json
+126 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/concat-stream/package.json
+127 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/concat-with-sourcemaps/package.json
+128 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/console-browserify/package.json
+129 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/console-control-strings/package.json
+130 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/constants-browserify/package.json
+131 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/convert-source-map/package.json
+132 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/copy-descriptor/package.json
+133 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/core-js/package.json
+134 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/core-util-is/package.json
+135 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/create-ecdh/package.json
+136 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/create-hash/package.json
+137 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/create-hmac/package.json
+138 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/cross-spawn/package.json
+139 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/cryptiles/package.json
+140 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/crypto-browserify/package.json
+141 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/css/package.json
+142 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/currently-unhandled/package.json
+143 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/dargs/package.json
+144 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/dashdash/package.json
+145 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/date-now/package.json
+146 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/dateformat/package.json
+147 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/deap/package.json
+148 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/debug/package.json
+149 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/debug-fabulous/package.json
+150 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/decamelize/package.json
+151 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/decode-uri-component/package.json
+152 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/deep-equal/package.json
+153 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/defaults/package.json
+154 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/define-property/package.json
+155 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/defined/package.json
+156 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/defs/package.json
+157 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/del/package.json
+158 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/delayed-stream/package.json
+159 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/delegates/package.json
+160 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/deprecated/package.json
+161 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/deps-sort/package.json
+162 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/des.js/package.json
+163 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/detect-file/package.json
+164 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/detect-indent/package.json
+165 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/detect-newline/package.json
+166 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/detective/package.json
+167 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/diffie-hellman/package.json
+168 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/domain-browser/package.json
+169 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/duplexer2/package.json
+170 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/duplexify/package.json
+171 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/each-async/package.json
+172 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ecc-jsbn/package.json
+173 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/elliptic/package.json
+174 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/end-of-stream/package.json
+175 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ends-with/package.json
+176 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/errno/package.json
+177 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/error-ex/package.json
+178 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/escape-string-regexp/package.json
+179 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/esprima-fb/package.json
+180 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/esutils/package.json
+181 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/events/package.json
+182 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/evp_bytestokey/package.json
+183 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/expand-brackets/package.json
+184 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/expand-range/package.json
+185 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/expand-tilde/package.json
+186 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/extend/package.json
+187 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/extend-shallow/package.json
+188 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/extglob/package.json
+189 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/extsprintf/package.json
+190 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fancy-log/package.json
+191 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fast-deep-equal/package.json
+192 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fast-json-stable-stringify/package.json
+193 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/filename-regex/package.json
+194 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fill-range/package.json
+195 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/find-index/package.json
+196 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/find-up/package.json
+197 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/findup-sync/package.json
+198 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fined/package.json
+199 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/first-chunk-stream/package.json
+200 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/flagged-respawn/package.json
+201 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/for-in/package.json
+202 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/for-own/package.json
+203 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/forever-agent/package.json
+204 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fork-stream/package.json
+205 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/form-data/package.json
+206 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fragment-cache/package.json
+207 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fs-readdir-recursive/package.json
+208 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fs.realpath/package.json
+209 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/fstream/package.json
+210 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/function-bind/package.json
+211 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gauge/package.json
+212 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gaze/package.json
+213 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/get-caller-file/package.json
+214 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/get-stdin/package.json
+215 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/get-value/package.json
+216 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/getpass/package.json
+217 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/glob/package.json
+218 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/glob-base/package.json
+219 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/glob-parent/package.json
+220 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/glob-stream/package.json
+221 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/glob-watcher/package.json
+222 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/glob2base/package.json
+223 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/global-modules/package.json
+224 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/global-prefix/package.json
+225 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/globals/package.json
+226 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/globby/package.json
+227 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/globule/package.json
+228 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/glogg/package.json
+229 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/graceful-fs/package.json
+230 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/growly/package.json
+231 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp/package.json
+232 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-autoprefixer/package.json
+233 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-coffee/package.json
+234 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-concat/package.json
+235 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-filter/package.json
+236 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-if/package.json
+237 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-less/package.json
+238 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-load-plugins/package.json
+239 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-match/package.json
+240 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-minify-css/package.json
+241 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-notify/package.json
+242 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-phpspec/package.json
+243 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-phpunit/package.json
+244 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-rename/package.json
+245 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-rev/package.json
+246 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-ruby-sass/package.json
+247 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-sass/package.json
+248 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-shell/package.json
+249 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-sourcemaps/package.json
+250 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-uglify/package.json
+251 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulp-util/package.json
+252 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/gulplog/package.json
+253 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/har-schema/package.json
+254 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/har-validator/package.json
+255 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/has/package.json
+256 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/has-ansi/package.json
+257 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/has-gulplog/package.json
+258 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/has-unicode/package.json
+259 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/has-value/package.json
+260 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/has-values/package.json
+261 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/hash-base/package.json
+262 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/hash.js/package.json
+263 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/hawk/package.json
+264 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/hmac-drbg/package.json
+265 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/hoek/package.json
+266 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/home-or-tmp/package.json
+267 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/homedir-polyfill/package.json
+268 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/hosted-git-info/package.json
+269 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/http-browserify/package.json
+270 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/http-signature/package.json
+271 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/https-browserify/package.json
+272 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/iconv-lite/package.json
+273 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ieee754/package.json
+274 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/image-size/package.json
+275 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/in-publish/package.json
+276 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/indent-string/package.json
+277 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/indexof/package.json
+278 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/indx/package.json
+279 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/inflight/package.json
+280 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/inherits/package.json
+281 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ini/package.json
+282 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/inline-source-map/package.json
+283 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/insert-module-globals/package.json
+284 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/install/package.json
+285 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/interpret/package.json
+286 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/invert-kv/package.json
+287 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is/package.json
+288 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-absolute/package.json
+289 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-accessor-descriptor/package.json
+290 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-arrayish/package.json
+291 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-buffer/package.json
+292 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-builtin-module/package.json
+293 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-data-descriptor/package.json
+294 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-descriptor/package.json
+295 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-dotfile/package.json
+296 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-equal-shallow/package.json
+297 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-extendable/package.json
+298 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-extglob/package.json
+299 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-finite/package.json
+300 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-fullwidth-code-point/package.json
+301 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-glob/package.json
+302 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-integer/package.json
+303 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-number/package.json
+304 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-path-cwd/package.json
+305 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-path-in-cwd/package.json
+306 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-path-inside/package.json
+307 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-plain-object/package.json
+308 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-posix-bracket/package.json
+309 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-primitive/package.json
+310 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-relative/package.json
+311 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-stream/package.json
+312 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-typedarray/package.json
+313 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-unc-path/package.json
+314 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-utf8/package.json
+315 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-valid-glob/package.json
+316 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/is-windows/package.json
+317 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/isarray/package.json
+318 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/isexe/package.json
+319 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/isobject/package.json
+320 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/isstream/package.json
+321 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/js-base64/package.json
+322 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/js-tokens/package.json
+323 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/jsbn/package.json
+324 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/jsesc/package.json
+325 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/json-schema/package.json
+326 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/json-schema-traverse/package.json
+327 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/json-stable-stringify/package.json
+328 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/json-stringify-safe/package.json
+329 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/json5/package.json
+330 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/jsonify/package.json
+331 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/jsonparse/package.json
+332 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/jsprim/package.json
+333 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/kind-of/package.json
+334 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/labeled-stream-splicer/package.json
+335 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/laravel-elixir/package.json
+336 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lazy-cache/package.json
+337 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lazy-debug-legacy/package.json
+338 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lazystream/package.json
+339 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lcid/package.json
+340 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/less/package.json
+341 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/leven/package.json
+342 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lexical-scope/package.json
+343 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/liftoff/package.json
+344 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/load-json-file/package.json
+345 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash/package.json
+346 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._basecopy/package.json
+347 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._basetostring/package.json
+348 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._basevalues/package.json
+349 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._escapehtmlchar/package.json
+350 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._escapestringchar/package.json
+351 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._getnative/package.json
+352 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._htmlescapes/package.json
+353 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._isiterateecall/package.json
+354 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._isnative/package.json
+355 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._objecttypes/package.json
+356 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._reescape/package.json
+357 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._reevaluate/package.json
+358 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._reinterpolate/package.json
+359 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._reunescapedhtml/package.json
+360 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._root/package.json
+361 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash._shimkeys/package.json
+362 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.assign/package.json
+363 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.clone/package.json
+364 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.clonedeep/package.json
+365 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.defaults/package.json
+366 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.escape/package.json
+367 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.flatten/package.json
+368 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.isarguments/package.json
+369 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.isarray/package.json
+370 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.isequal/package.json
+371 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.isobject/package.json
+372 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.keys/package.json
+373 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.memoize/package.json
+374 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.merge/package.json
+375 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.partialright/package.json
+376 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.pick/package.json
+377 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.restparam/package.json
+378 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.template/package.json
+379 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.templatesettings/package.json
+380 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.uniq/package.json
+381 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lodash.values/package.json
+382 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/longest/package.json
+383 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/loud-rejection/package.json
+384 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/lru-cache/package.json
+385 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/main-bower-files/package.json
+386 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/make-iterator/package.json
+387 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/map-cache/package.json
+388 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/map-obj/package.json
+389 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/map-stream/package.json
+390 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/map-visit/package.json
+391 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/math-random/package.json
+392 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/md5-hex/package.json
+393 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/md5-o-matic/package.json
+394 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/md5.js/package.json
+395 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/memory-cache/package.json
+396 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/meow/package.json
+397 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/merge/package.json
+398 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/merge-stream/package.json
+399 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/micromatch/package.json
+400 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/miller-rabin/package.json
+401 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/mime/package.json
+402 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/mime-db/package.json
+403 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/mime-types/package.json
+404 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/minimalistic-assert/package.json
+405 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/minimalistic-crypto-utils/package.json
+406 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/minimatch/package.json
+407 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/minimist/package.json
+408 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/mixin-deep/package.json
+409 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/mkdirp/package.json
+410 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/module-deps/package.json
+411 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ms/package.json
+412 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/multimatch/package.json
+413 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/multipipe/package.json
+414 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/nan/package.json
+415 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/nanomatch/package.json
+416 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/natives/package.json
+417 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/node-gyp/package.json
+418 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/node-notifier/package.json
+419 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/node-sass/package.json
+420 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/node.extend/package.json
+421 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/nopt/package.json
+422 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/normalize-package-data/package.json
+423 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/normalize-path/package.json
+424 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/package.json
+425 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npmlog/package.json
+426 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/number-is-nan/package.json
+427 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/oauth-sign/package.json
+428 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/object-assign/package.json
+429 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/object-copy/package.json
+430 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/object-visit/package.json
+431 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/object.defaults/package.json
+432 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/object.map/package.json
+433 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/object.omit/package.json
+434 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/object.pick/package.json
+435 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/once/package.json
+436 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/onetime/package.json
+437 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/orchestrator/package.json
+438 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ordered-read-streams/package.json
+439 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/os-browserify/package.json
+440 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/os-homedir/package.json
+441 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/os-locale/package.json
+442 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/os-tmpdir/package.json
+443 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/osenv/package.json
+444 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/output-file-sync/package.json
+445 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pako/package.json
+446 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/parents/package.json
+447 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/parse-asn1/package.json
+448 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/parse-filepath/package.json
+449 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/parse-glob/package.json
+450 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/parse-json/package.json
+451 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/parse-node-version/package.json
+452 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/parse-passwd/package.json
+453 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pascalcase/package.json
+454 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-browserify/package.json
+455 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-dirname/package.json
+456 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-ends-with/package.json
+457 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-exists/package.json
+458 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-is-absolute/package.json
+459 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-is-inside/package.json
+460 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-parse/package.json
+461 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-platform/package.json
+462 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-root/package.json
+463 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-root-regex/package.json
+464 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/path-type/package.json
+465 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pbkdf2/package.json
+466 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/performance-now/package.json
+467 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pify/package.json
+468 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pinkie/package.json
+469 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pinkie-promise/package.json
+470 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/plugin-error/package.json
+471 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/posix-character-classes/package.json
+472 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/postcss/package.json
+473 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/preserve/package.json
+474 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pretty-hrtime/package.json
+475 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/private/package.json
+476 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/process/package.json
+477 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/process-nextick-args/package.json
+478 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/promise/package.json
+479 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/prr/package.json
+480 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/pseudomap/package.json
+481 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/psl/package.json
+482 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/public-encrypt/package.json
+483 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/punycode/package.json
+484 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/q/package.json
+485 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/qs/package.json
+486 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/querystring/package.json
+487 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/querystring-es3/package.json
+488 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/randomatic/package.json
+489 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/randombytes/package.json
+490 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/randomfill/package.json
+491 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/read-only-stream/package.json
+492 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/read-pkg/package.json
+493 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/read-pkg-up/package.json
+494 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/readable-stream/package.json
+495 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/readable-wrap/package.json
+496 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/recast/package.json
+497 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/rechoir/package.json
+498 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/redent/package.json
+499 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/regenerate/package.json
+500 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/regenerator/package.json
+501 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/regex-cache/package.json
+502 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/regex-not/package.json
+503 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/regexpu/package.json
+504 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/regjsgen/package.json
+505 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/regjsparser/package.json
+506 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/remove-trailing-separator/package.json
+507 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/repeat-element/package.json
+508 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/repeat-string/package.json
+509 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/repeating/package.json
+510 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/replace-ext/package.json
+511 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/request/package.json
+512 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/require-dir/package.json
+513 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/require-directory/package.json
+514 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/require-main-filename/package.json
+515 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/resolve/package.json
+516 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/resolve-dir/package.json
+517 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/resolve-url/package.json
+518 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ret/package.json
+519 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/right-align/package.json
+520 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/rimraf/package.json
+521 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ripemd160/package.json
+522 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/run-sequence/package.json
+523 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/safe-buffer/package.json
+524 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/safe-regex/package.json
+525 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/safer-buffer/package.json
+526 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/sass-graph/package.json
+527 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/scss-tokenizer/package.json
+528 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/semver/package.json
+529 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/sequencify/package.json
+530 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/set-blocking/package.json
+531 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/set-immediate-shim/package.json
+532 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/set-value/package.json
+533 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/sha.js/package.json
+534 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/shallow-copy/package.json
+535 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/shasum/package.json
+536 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/shebang-regex/package.json
+537 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/shell-quote/package.json
+538 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/shellwords/package.json
+539 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/sigmund/package.json
+540 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/signal-exit/package.json
+541 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/simple-fmt/package.json
+542 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/simple-is/package.json
+543 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/slash/package.json
+544 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/snapdragon/package.json
+545 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/snapdragon-node/package.json
+546 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/snapdragon-util/package.json
+547 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/sntp/package.json
+548 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/source-map/package.json
+549 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/source-map-resolve/package.json
+550 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/source-map-support/package.json
+551 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/source-map-url/package.json
+552 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/sparkles/package.json
+553 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/spdx-correct/package.json
+554 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/spdx-exceptions/package.json
+555 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/spdx-expression-parse/package.json
+556 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/spdx-license-ids/package.json
+557 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/split-string/package.json
+558 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/sshpk/package.json
+559 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stable/package.json
+560 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/static-extend/package.json
+561 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stream-browserify/package.json
+562 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stream-combiner2/package.json
+563 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stream-consume/package.json
+564 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stream-shift/package.json
+565 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stream-splicer/package.json
+566 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/string-width/package.json
+567 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/string_decoder/package.json
+568 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stringmap/package.json
+569 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stringset/package.json
+570 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/stringstream/package.json
+571 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/strip-ansi/package.json
+572 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/strip-bom/package.json
+573 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/strip-bom-stream/package.json
+574 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/strip-indent/package.json
+575 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/strip-json-comments/package.json
+576 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/subarg/package.json
+577 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/supports-color/package.json
+578 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/syntax-error/package.json
+579 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/tar/package.json
+580 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/ternary-stream/package.json
+581 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/through/package.json
+582 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/through2/package.json
+583 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/through2-filter/package.json
+584 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/tildify/package.json
+585 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/time-stamp/package.json
+586 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/timers-browserify/package.json
+587 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/to-absolute-glob/package.json
+588 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/to-fast-properties/package.json
+589 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/to-object-path/package.json
+590 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/to-regex/package.json
+591 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/to-regex-range/package.json
+592 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/tough-cookie/package.json
+593 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/trim-newlines/package.json
+594 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/trim-right/package.json
+595 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/try-resolve/package.json
+596 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/tryor/package.json
+597 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/tty-browserify/package.json
+598 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/tunnel-agent/package.json
+599 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/tweetnacl/package.json
+600 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/typedarray/package.json
+601 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/uglify-js/package.json
+602 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/uglify-save-license/package.json
+603 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/uglify-to-browserify/package.json
+604 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/umd/package.json
+605 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/unc-path-regex/package.json
+606 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/underscore/package.json
+607 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/union-value/package.json
+608 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/unique-stream/package.json
+609 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/unset-value/package.json
+610 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/uri-js/package.json
+611 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/urix/package.json
+612 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/url/package.json
+613 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/use/package.json
+614 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/user-home/package.json
+615 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/util/package.json
+616 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/util-deprecate/package.json
+617 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/uuid/package.json
+618 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/v8flags/package.json
+619 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vali-date/package.json
+620 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/validate-npm-package-license/package.json
+621 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/verror/package.json
+622 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vinyl/package.json
+623 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vinyl-buffer/package.json
+624 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vinyl-fs/package.json
+625 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vinyl-paths/package.json
+626 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vinyl-source-stream/package.json
+627 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vinyl-sourcemaps-apply/package.json
+628 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/vm-browserify/package.json
+629 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/when/package.json
+630 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/which/package.json
+631 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/which-module/package.json
+632 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/wide-align/package.json
+633 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/win-spawn/package.json
+634 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/window-size/package.json
+635 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/wordwrap/package.json
+636 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/wrap-ansi/package.json
+637 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/wrappy/package.json
+638 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/xtend/package.json
+639 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/y18n/package.json
+640 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/yallist/package.json
+641 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/yargs/package.json
+642 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/yargs-parser/package.json
+643 verbose installManyTop reading scoped package data from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/@gulp-sourcemaps/map-sources/package.json
+644 info package.json babel-core@5.8.38 No README data
+645 info package.json copy-descriptor@0.1.1 No README data
+646 info package.json core-js@1.2.7 No README data
+647 info package.json get-value@2.0.6 No README data
+648 info package.json object-copy@0.1.0 No README data
+649 info package.json output-file-sync@1.1.2 No README data
+650 info package.json path-is-inside@1.0.2 No README data
+651 info package.json static-extend@0.1.2 No README data
+652 info package.json JSONStream@0.10.0 No license field.
+653 info package.json Base64@0.2.1 No license field.
+654 info package.json ansi-wrap@0.1.0 license should be a valid SPDX license expression
+655 info package.json assert@1.3.0 assert is also the name of a node core module.
+656 info package.json async-foreach@0.1.3 No license field.
+657 info package.json bufferstreams@0.0.2 No license field.
+658 info package.json commondir@0.0.1 license should be a valid SPDX license expression
+659 info package.json console-browserify@1.1.0 No license field.
+660 info package.json date-now@0.1.4 No license field.
+661 info package.json deprecated@0.0.1 No license field.
+662 info package.json duplexer2@0.0.2 license should be a valid SPDX license expression
+663 info package.json ends-with@0.2.0 No license field.
+664 info package.json esutils@2.0.2 No license field.
+665 info package.json events@1.0.2 events is also the name of a node core module.
+666 info package.json events@1.0.2 No license field.
+667 info package.json esprima-fb@15001.1001.0-dev-harmony-fb No license field.
+668 info package.json fork-stream@0.0.4 license should be a valid SPDX license expression
+669 info package.json gaze@0.5.2 No license field.
+670 info package.json glob-watcher@0.0.6 No license field.
+671 info package.json glob-stream@3.1.18 No license field.
+672 info package.json glob-base@0.3.0 license should be a valid SPDX license expression
+673 info package.json glob2base@0.0.12 No license field.
+674 info package.json globule@0.1.0 No license field.
+675 info package.json gulp-if@1.2.5 No license field.
+676 info package.json gulp-match@0.2.1 No license field.
+677 info package.json gulp-minify-css@0.3.13 No license field.
+678 info package.json http-browserify@1.7.0 license should be a valid SPDX license expression
+679 info package.json indexof@0.0.1 No repository field.
+680 info package.json indexof@0.0.1 No license field.
+681 info package.json install@0.1.8 No license field.
+682 info package.json is-primitive@2.0.0 license should be a valid SPDX license expression
+683 info package.json js-base64@2.1.9 license should be a valid SPDX license expression
+684 info package.json jsonify@0.0.0 license should be a valid SPDX license expression
+685 info package.json json-schema@0.2.3 No license field.
+686 info package.json longest@1.0.1 license should be a valid SPDX license expression
+687 info package.json map-stream@0.0.4 No license field.
+688 info package.json memory-cache@0.0.5 No license field.
+689 info package.json md5-o-matic@0.1.1 No license field.
+690 info package.json preserve@0.2.0 license should be a valid SPDX license expression
+691 info package.json process@0.10.1 process is also the name of a node core module.
+692 info package.json process@0.10.1 No license field.
+693 info package.json punycode@1.2.4 punycode is also the name of a node core module.
+694 info package.json punycode@1.2.4 No license field.
+695 info package.json querystring@0.2.0 querystring is also the name of a node core module.
+696 info package.json querystring@0.2.0 No license field.
+697 info package.json querystring-es3@0.2.1 No license field.
+698 info package.json rechoir@0.6.2 No license field.
+699 info package.json regenerator@0.8.40 license should be a valid SPDX license expression
+700 info package.json replace-ext@0.0.1 No license field.
+701 info package.json require-dir@0.1.0 No license field.
+702 info package.json regjsparser@0.1.5 license should be a valid SPDX license expression
+703 info package.json sequencify@0.0.7 No license field.
+704 info package.json sntp@1.0.9 No license field.
+705 info package.json source-map-support@0.2.10 No license field.
+706 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+707 info package.json ternary-stream@1.2.3 No license field.
+708 info package.json timers-browserify@1.4.2 No license field.
+709 info package.json uglify-save-license@0.4.1 No license field.
+710 info package.json unique-stream@1.0.0 license should be a valid SPDX license expression
+711 info package.json url@0.10.3 url is also the name of a node core module.
+712 info package.json util@0.10.4 util is also the name of a node core module.
+713 info package.json v8flags@2.1.1 No license field.
+714 info package.json win-spawn@2.0.0 license should be a valid SPDX license expression
+715 info package.json vinyl-fs@0.3.14 No license field.
+716 info package.json wordwrap@0.0.2 license should be a valid SPDX license expression
+717 info package.json buffer@3.6.0 buffer is also the name of a node core module.
+718 info package.json gulp-notify@1.8.0 No license field.
+719 info package.json jsesc@0.5.0 No license field.
+720 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/package.json
+721 silly cache add args [ 'react', null ]
+722 verbose cache add spec react
+723 silly cache add parsed spec Result {
+723 silly cache add   raw: 'react',
+723 silly cache add   scope: null,
+723 silly cache add   name: 'react',
+723 silly cache add   rawSpec: '',
+723 silly cache add   spec: 'latest',
+723 silly cache add   type: 'tag' }
+724 silly addNamed react@latest
+725 verbose addNamed "latest" is being treated as a dist-tag for react
+726 info addNameTag [ 'react', 'latest' ]
+727 silly mapToRegistry name react
+728 silly mapToRegistry using default registry
+729 silly mapToRegistry registry https://registry.npmjs.org/
+730 silly mapToRegistry data Result {
+730 silly mapToRegistry   raw: 'react',
+730 silly mapToRegistry   scope: null,
+730 silly mapToRegistry   name: 'react',
+730 silly mapToRegistry   rawSpec: '',
+730 silly mapToRegistry   spec: 'latest',
+730 silly mapToRegistry   type: 'tag' }
+731 silly mapToRegistry uri https://registry.npmjs.org/react
+732 verbose addNameTag registry:https://registry.npmjs.org/react not in flight; fetching
+733 verbose request uri https://registry.npmjs.org/react
+734 verbose request no auth needed
+735 info attempt registry request try #1 at 3:05:01 PM
+736 verbose request id 03d37ab989e4a30d
+737 http request GET https://registry.npmjs.org/react
+738 http 200 https://registry.npmjs.org/react
+739 verbose headers { date: 'Sat, 15 Dec 2018 09:35:02 GMT',
+739 verbose headers   'content-type': 'application/json',
+739 verbose headers   'transfer-encoding': 'chunked',
+739 verbose headers   connection: 'keep-alive',
+739 verbose headers   'set-cookie':
+739 verbose headers    [ '__cfduid=dd7209f05ca6cf31bb707ac60c40653021544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+739 verbose headers   'cf-cache-status': 'HIT',
+739 verbose headers   'cache-control': 'max-age=300',
+739 verbose headers   'cf-ray': '4897eaf73efd896f-MAA',
+739 verbose headers   etag: 'W/"a8e626a646ae9f9ff2fca893ca8eeda2"',
+739 verbose headers   'expect-ct':
+739 verbose headers    'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+739 verbose headers   'last-modified': 'Fri, 14 Dec 2018 19:38:27 GMT',
+739 verbose headers   vary: 'accept-encoding, accept',
+739 verbose headers   'x-amz-meta-rev': '1199-e4fe4410cc4764356cc56506dae09b5c',
+739 verbose headers   server: 'cloudflare',
+739 verbose headers   'content-encoding': 'gzip' }
+740 silly get cb [ 200,
+740 silly get   { date: 'Sat, 15 Dec 2018 09:35:02 GMT',
+740 silly get     'content-type': 'application/json',
+740 silly get     'transfer-encoding': 'chunked',
+740 silly get     connection: 'keep-alive',
+740 silly get     'set-cookie':
+740 silly get      [ '__cfduid=dd7209f05ca6cf31bb707ac60c40653021544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+740 silly get     'cf-cache-status': 'HIT',
+740 silly get     'cache-control': 'max-age=300',
+740 silly get     'cf-ray': '4897eaf73efd896f-MAA',
+740 silly get     etag: 'W/"a8e626a646ae9f9ff2fca893ca8eeda2"',
+740 silly get     'expect-ct':
+740 silly get      'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+740 silly get     'last-modified': 'Fri, 14 Dec 2018 19:38:27 GMT',
+740 silly get     vary: 'accept-encoding, accept',
+740 silly get     'x-amz-meta-rev': '1199-e4fe4410cc4764356cc56506dae09b5c',
+740 silly get     server: 'cloudflare',
+740 silly get     'content-encoding': 'gzip' } ]
+741 verbose get saving react to /home/anirban/.npm/registry.npmjs.org/react/.cache.json
+742 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+743 silly addNameTag next cb for react with tag latest
+744 silly addNamed react@16.6.3
+745 verbose addNamed "16.6.3" is a plain semver version for react
+746 silly mapToRegistry name react
+747 silly mapToRegistry using default registry
+748 silly mapToRegistry registry https://registry.npmjs.org/
+749 silly mapToRegistry data Result {
+749 silly mapToRegistry   raw: 'react',
+749 silly mapToRegistry   scope: null,
+749 silly mapToRegistry   name: 'react',
+749 silly mapToRegistry   rawSpec: '',
+749 silly mapToRegistry   spec: 'latest',
+749 silly mapToRegistry   type: 'tag' }
+750 silly mapToRegistry uri https://registry.npmjs.org/react
+751 verbose addRemoteTarball https://registry.npmjs.org/react/-/react-16.6.3.tgz not in flight; adding
+752 verbose addRemoteTarball [ 'https://registry.npmjs.org/react/-/react-16.6.3.tgz',
+752 verbose addRemoteTarball   '25d77c91911d6bbdd23db41e70fb094cc1e0871c' ]
+753 info retry fetch attempt 1 at 3:05:02 PM
+754 info attempt registry request try #1 at 3:05:02 PM
+755 http fetch GET https://registry.npmjs.org/react/-/react-16.6.3.tgz
+756 http fetch 200 https://registry.npmjs.org/react/-/react-16.6.3.tgz
+757 silly fetchAndShaCheck shasum 25d77c91911d6bbdd23db41e70fb094cc1e0871c
+758 verbose addTmpTarball /tmp/npm-14325-e7aed13c/registry.npmjs.org/react/-/react-16.6.3.tgz not in flight; adding
+759 verbose addTmpTarball already have metadata; skipping unpack for react@16.6.3
+760 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+761 silly cache afterAdd react@16.6.3
+762 verbose afterAdd /home/anirban/.npm/react/16.6.3/package/package.json not in flight; writing
+763 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+764 verbose afterAdd /home/anirban/.npm/react/16.6.3/package/package.json written
+765 silly install resolved [ { name: 'react',
+765 silly install resolved     description:
+765 silly install resolved      'React is a JavaScript library for building user interfaces.',
+765 silly install resolved     keywords: [ 'react' ],
+765 silly install resolved     version: '16.6.3',
+765 silly install resolved     homepage: 'https://reactjs.org/',
+765 silly install resolved     bugs: { url: 'https://github.com/facebook/react/issues' },
+765 silly install resolved     license: 'MIT',
+765 silly install resolved     main: 'index.js',
+765 silly install resolved     repository:
+765 silly install resolved      { type: 'git',
+765 silly install resolved        url: 'git+https://github.com/facebook/react.git' },
+765 silly install resolved     engines: { node: '>=0.10.0' },
+765 silly install resolved     dependencies:
+765 silly install resolved      { 'loose-envify': '^1.1.0',
+765 silly install resolved        'object-assign': '^4.1.1',
+765 silly install resolved        'prop-types': '^15.6.2',
+765 silly install resolved        scheduler: '^0.11.2' },
+765 silly install resolved     browserify: { transform: [Array] },
+765 silly install resolved     buildInfo:
+765 silly install resolved      { buildID: '0c756fb-f7f79fd',
+765 silly install resolved        checksum: 'd94496cd35663b7e3250c3d4a9069d8229b72b27',
+765 silly install resolved        unstable: false,
+765 silly install resolved        partial: false,
+765 silly install resolved        packages: [Array] },
+765 silly install resolved     _id: 'react@16.6.3',
+765 silly install resolved     _npmVersion: '5.6.0',
+765 silly install resolved     _nodeVersion: '8.11.4',
+765 silly install resolved     _npmUser: { name: 'acdlite', email: 'npm@andrewclark.io' },
+765 silly install resolved     dist:
+765 silly install resolved      { integrity:
+765 silly install resolved         'sha512-zCvmH2vbEolgKxtqXL2wmGCUxUyNheYn/C+PD1YAjfxHC54+MhdruyhO7QieQrYsYeTxrn93PM2y0jRH1zEExw==',
+765 silly install resolved        shasum: '25d77c91911d6bbdd23db41e70fb094cc1e0871c',
+765 silly install resolved        tarball: 'https://registry.npmjs.org/react/-/react-16.6.3.tgz',
+765 silly install resolved        fileCount: 9,
+765 silly install resolved        unpackedSize: 194684,
+765 silly install resolved        'npm-signature':
+765 silly install resolved         '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb6kqYCRA9TVsSAnZWagAASdYP/01Zzw8sooC7ph3cqDow\nfbouSJfrX4CSIM1nuxgU54qRmpM+gc+es7iEQoXF8HjbnITC9Hv389l8h/f/\nYjzvzl6J5/lVBcEV/sSiBs+30VHr3qTJBV3j/8eQalmRhNRw5nTEKI12qrcU\nPmyqxVqK35efummJUfQIShGi0boXSGdq67/hHAkSXGRJw37r88qWlXYGwolF\nrp6CYzcEipyL6rJygj+NlYKxwxWPjCr/kB7M7Ij0JlL5fMnObQA0Cgfu9NGX\nQ40X2/YWillVa6wQtqAZjeoqSnVw2ChD0jOHXZRYyB4Az1F+DQU1CftIq0FH\nBG2L2g6Fhh47p/8+u5Lu9CDfcLAcNyslPC54HHILcV4Sd9zWsCfOEkbCtlkQ\nwTNafJUsz2gIGHOJE74MxaEavkOX3kpEsBJrwSuAo3Du8igX4+iTPqLtkG4J\nQ7gPRwBG6/bOuIFM+ytChTu5xpMPxHkjw7jjJamC2DsWTVI+LQynkxihSu6S\ntGV+iduXLtHyrLcysH0VrwekSSIerzoDOJsgbyRgropLXkceoBb2Jbu753Ve\nQ7pafN029HflVlDkmNKp0YD4yVtwgFM2t2PIYvaoH+CBXfmkV3pmZtyPHXOG\nz70pBLtIUUacy8nqSn3xaWR4XvtKFIW773K241aUEDWdFueSLBWqV1TdcKVd\nW0KQ\r\n=mb8T\r\n-----END PGP SIGNATURE-----\r\n' },
+765 silly install resolved     maintainers:
+765 silly install resolved      [ [Object],
+765 silly install resolved        [Object],
+765 silly install resolved        [Object],
+765 silly install resolved        [Object],
+765 silly install resolved        [Object],
+765 silly install resolved        [Object],
+765 silly install resolved        [Object] ],
+765 silly install resolved     directories: {},
+765 silly install resolved     _npmOperationalInternal:
+765 silly install resolved      { host: 's3://npm-registry-packages',
+765 silly install resolved        tmp: 'tmp/react_16.6.3_1542081176221_0.10488201526415497' },
+765 silly install resolved     _hasShrinkwrap: false,
+765 silly install resolved     _shasum: '25d77c91911d6bbdd23db41e70fb094cc1e0871c',
+765 silly install resolved     _resolved: 'https://registry.npmjs.org/react/-/react-16.6.3.tgz',
+765 silly install resolved     _from: 'react@latest' } ]
+766 info install react@16.6.3 into /home/anirban/IdeaProjects/TNTS_CRM_2
+767 info installOne react@16.6.3
+768 verbose installOne of react to /home/anirban/IdeaProjects/TNTS_CRM_2 not in flight; installing
+769 verbose correctMkdir /home/anirban/.npm/_locks correctMkdir not in flight; initializing
+770 verbose lock using /home/anirban/.npm/_locks/react-56982215ca30e6dc.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+771 silly install write writing react 16.6.3 to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+772 verbose unbuild node_modules/react
+773 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react is being purged from base /home/anirban/IdeaProjects/TNTS_CRM_2
+774 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+775 verbose tar unpack /home/anirban/.npm/react/16.6.3/package.tgz
+776 verbose tar unpacking to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+777 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react is being purged
+778 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+779 silly gunzTarPerm modes [ '775', '664' ]
+780 silly gunzTarPerm extractEntry package.json
+781 silly gunzTarPerm modified mode [ 'package.json', 420, 436 ]
+782 silly gunzTarPerm extractEntry index.js
+783 silly gunzTarPerm modified mode [ 'index.js', 420, 436 ]
+784 silly gunzTarPerm extractEntry LICENSE
+785 silly gunzTarPerm modified mode [ 'LICENSE', 420, 436 ]
+786 silly gunzTarPerm extractEntry README.md
+787 silly gunzTarPerm modified mode [ 'README.md', 420, 436 ]
+788 silly gunzTarPerm extractEntry cjs/react.development.js
+789 silly gunzTarPerm modified mode [ 'cjs/react.development.js', 420, 436 ]
+790 silly gunzTarPerm extractEntry cjs/react.production.min.js
+791 silly gunzTarPerm modified mode [ 'cjs/react.production.min.js', 420, 436 ]
+792 silly gunzTarPerm extractEntry umd/react.development.js
+793 silly gunzTarPerm modified mode [ 'umd/react.development.js', 420, 436 ]
+794 silly gunzTarPerm extractEntry umd/react.production.min.js
+795 silly gunzTarPerm modified mode [ 'umd/react.production.min.js', 420, 436 ]
+796 silly gunzTarPerm extractEntry umd/react.profiling.min.js
+797 silly gunzTarPerm modified mode [ 'umd/react.profiling.min.js', 420, 436 ]
+798 verbose write writing to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/package.json
+799 info preinstall react@16.6.3
+800 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/package.json
+801 silly prepareForInstallMany adding loose-envify@^1.1.0 from react dependencies
+802 silly prepareForInstallMany adding object-assign@^4.1.1 from react dependencies
+803 silly prepareForInstallMany adding prop-types@^15.6.2 from react dependencies
+804 silly prepareForInstallMany adding scheduler@^0.11.2 from react dependencies
+805 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/package.json
+806 silly cache add args [ 'loose-envify@^1.1.0', null ]
+807 verbose cache add spec loose-envify@^1.1.0
+808 silly cache add args [ 'object-assign@^4.1.1', null ]
+809 verbose cache add spec object-assign@^4.1.1
+810 silly cache add parsed spec Result {
+810 silly cache add   raw: 'loose-envify@^1.1.0',
+810 silly cache add   scope: null,
+810 silly cache add   name: 'loose-envify',
+810 silly cache add   rawSpec: '^1.1.0',
+810 silly cache add   spec: '>=1.1.0 <2.0.0',
+810 silly cache add   type: 'range' }
+811 silly addNamed loose-envify@>=1.1.0 <2.0.0
+812 verbose addNamed ">=1.1.0 <2.0.0" is a valid semver range for loose-envify
+813 silly addNameRange { name: 'loose-envify', range: '>=1.1.0 <2.0.0', hasData: false }
+814 silly mapToRegistry name loose-envify
+815 silly mapToRegistry using default registry
+816 silly mapToRegistry registry https://registry.npmjs.org/
+817 silly mapToRegistry data Result {
+817 silly mapToRegistry   raw: 'loose-envify',
+817 silly mapToRegistry   scope: null,
+817 silly mapToRegistry   name: 'loose-envify',
+817 silly mapToRegistry   rawSpec: '',
+817 silly mapToRegistry   spec: 'latest',
+817 silly mapToRegistry   type: 'tag' }
+818 silly mapToRegistry uri https://registry.npmjs.org/loose-envify
+819 verbose addNameRange registry:https://registry.npmjs.org/loose-envify not in flight; fetching
+820 silly cache add parsed spec Result {
+820 silly cache add   raw: 'object-assign@^4.1.1',
+820 silly cache add   scope: null,
+820 silly cache add   name: 'object-assign',
+820 silly cache add   rawSpec: '^4.1.1',
+820 silly cache add   spec: '>=4.1.1 <5.0.0',
+820 silly cache add   type: 'range' }
+821 silly addNamed object-assign@>=4.1.1 <5.0.0
+822 verbose addNamed ">=4.1.1 <5.0.0" is a valid semver range for object-assign
+823 silly addNameRange { name: 'object-assign',
+823 silly addNameRange   range: '>=4.1.1 <5.0.0',
+823 silly addNameRange   hasData: false }
+824 silly mapToRegistry name object-assign
+825 silly mapToRegistry using default registry
+826 silly mapToRegistry registry https://registry.npmjs.org/
+827 silly mapToRegistry data Result {
+827 silly mapToRegistry   raw: 'object-assign',
+827 silly mapToRegistry   scope: null,
+827 silly mapToRegistry   name: 'object-assign',
+827 silly mapToRegistry   rawSpec: '',
+827 silly mapToRegistry   spec: 'latest',
+827 silly mapToRegistry   type: 'tag' }
+828 silly mapToRegistry uri https://registry.npmjs.org/object-assign
+829 verbose addNameRange registry:https://registry.npmjs.org/object-assign not in flight; fetching
+830 silly cache add args [ 'prop-types@^15.6.2', null ]
+831 verbose cache add spec prop-types@^15.6.2
+832 silly cache add parsed spec Result {
+832 silly cache add   raw: 'prop-types@^15.6.2',
+832 silly cache add   scope: null,
+832 silly cache add   name: 'prop-types',
+832 silly cache add   rawSpec: '^15.6.2',
+832 silly cache add   spec: '>=15.6.2 <16.0.0',
+832 silly cache add   type: 'range' }
+833 silly addNamed prop-types@>=15.6.2 <16.0.0
+834 verbose addNamed ">=15.6.2 <16.0.0" is a valid semver range for prop-types
+835 silly addNameRange { name: 'prop-types', range: '>=15.6.2 <16.0.0', hasData: false }
+836 silly mapToRegistry name prop-types
+837 silly mapToRegistry using default registry
+838 silly mapToRegistry registry https://registry.npmjs.org/
+839 silly mapToRegistry data Result {
+839 silly mapToRegistry   raw: 'prop-types',
+839 silly mapToRegistry   scope: null,
+839 silly mapToRegistry   name: 'prop-types',
+839 silly mapToRegistry   rawSpec: '',
+839 silly mapToRegistry   spec: 'latest',
+839 silly mapToRegistry   type: 'tag' }
+840 silly mapToRegistry uri https://registry.npmjs.org/prop-types
+841 verbose addNameRange registry:https://registry.npmjs.org/prop-types not in flight; fetching
+842 silly cache add args [ 'scheduler@^0.11.2', null ]
+843 verbose cache add spec scheduler@^0.11.2
+844 silly cache add parsed spec Result {
+844 silly cache add   raw: 'scheduler@^0.11.2',
+844 silly cache add   scope: null,
+844 silly cache add   name: 'scheduler',
+844 silly cache add   rawSpec: '^0.11.2',
+844 silly cache add   spec: '>=0.11.2 <0.12.0',
+844 silly cache add   type: 'range' }
+845 silly addNamed scheduler@>=0.11.2 <0.12.0
+846 verbose addNamed ">=0.11.2 <0.12.0" is a valid semver range for scheduler
+847 silly addNameRange { name: 'scheduler', range: '>=0.11.2 <0.12.0', hasData: false }
+848 silly mapToRegistry name scheduler
+849 silly mapToRegistry using default registry
+850 silly mapToRegistry registry https://registry.npmjs.org/
+851 silly mapToRegistry data Result {
+851 silly mapToRegistry   raw: 'scheduler',
+851 silly mapToRegistry   scope: null,
+851 silly mapToRegistry   name: 'scheduler',
+851 silly mapToRegistry   rawSpec: '',
+851 silly mapToRegistry   spec: 'latest',
+851 silly mapToRegistry   type: 'tag' }
+852 silly mapToRegistry uri https://registry.npmjs.org/scheduler
+853 verbose addNameRange registry:https://registry.npmjs.org/scheduler not in flight; fetching
+854 verbose request uri https://registry.npmjs.org/loose-envify
+855 verbose request no auth needed
+856 info attempt registry request try #1 at 3:05:02 PM
+857 http request GET https://registry.npmjs.org/loose-envify
+858 verbose request uri https://registry.npmjs.org/object-assign
+859 verbose request no auth needed
+860 info attempt registry request try #1 at 3:05:02 PM
+861 http request GET https://registry.npmjs.org/object-assign
+862 verbose request uri https://registry.npmjs.org/prop-types
+863 verbose request no auth needed
+864 info attempt registry request try #1 at 3:05:02 PM
+865 http request GET https://registry.npmjs.org/prop-types
+866 verbose request uri https://registry.npmjs.org/scheduler
+867 verbose request no auth needed
+868 info attempt registry request try #1 at 3:05:02 PM
+869 http request GET https://registry.npmjs.org/scheduler
+870 http 200 https://registry.npmjs.org/prop-types
+871 verbose headers { date: 'Sat, 15 Dec 2018 09:35:02 GMT',
+871 verbose headers   'content-type': 'application/json',
+871 verbose headers   'transfer-encoding': 'chunked',
+871 verbose headers   connection: 'keep-alive',
+871 verbose headers   'set-cookie':
+871 verbose headers    [ '__cfduid=dc51501e2fb60e2ded8386fc72a375f1f1544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+871 verbose headers   'cf-cache-status': 'HIT',
+871 verbose headers   'cache-control': 'max-age=300',
+871 verbose headers   'cf-ray': '4897eafb9f28898d-MAA',
+871 verbose headers   etag: 'W/"2ee90a56b032b52f9d763094015dbadf"',
+871 verbose headers   'expect-ct':
+871 verbose headers    'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+871 verbose headers   'last-modified': 'Fri, 26 Oct 2018 02:13:19 GMT',
+871 verbose headers   vary: 'accept-encoding, accept',
+871 verbose headers   'x-amz-meta-rev': '213-b90852b285997ec208dfd67ab867aac0',
+871 verbose headers   server: 'cloudflare',
+871 verbose headers   'content-encoding': 'gzip' }
+872 silly get cb [ 200,
+872 silly get   { date: 'Sat, 15 Dec 2018 09:35:02 GMT',
+872 silly get     'content-type': 'application/json',
+872 silly get     'transfer-encoding': 'chunked',
+872 silly get     connection: 'keep-alive',
+872 silly get     'set-cookie':
+872 silly get      [ '__cfduid=dc51501e2fb60e2ded8386fc72a375f1f1544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+872 silly get     'cf-cache-status': 'HIT',
+872 silly get     'cache-control': 'max-age=300',
+872 silly get     'cf-ray': '4897eafb9f28898d-MAA',
+872 silly get     etag: 'W/"2ee90a56b032b52f9d763094015dbadf"',
+872 silly get     'expect-ct':
+872 silly get      'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+872 silly get     'last-modified': 'Fri, 26 Oct 2018 02:13:19 GMT',
+872 silly get     vary: 'accept-encoding, accept',
+872 silly get     'x-amz-meta-rev': '213-b90852b285997ec208dfd67ab867aac0',
+872 silly get     server: 'cloudflare',
+872 silly get     'content-encoding': 'gzip' } ]
+873 verbose get saving prop-types to /home/anirban/.npm/registry.npmjs.org/prop-types/.cache.json
+874 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+875 silly addNameRange number 2 { name: 'prop-types', range: '>=15.6.2 <16.0.0', hasData: true }
+876 silly addNameRange versions [ 'prop-types',
+876 silly addNameRange   [ '0.1.0',
+876 silly addNameRange     '0.2.0',
+876 silly addNameRange     '15.5.0-alpha.0',
+876 silly addNameRange     '15.5.0',
+876 silly addNameRange     '15.5.1',
+876 silly addNameRange     '15.5.2',
+876 silly addNameRange     '15.5.3',
+876 silly addNameRange     '15.5.4',
+876 silly addNameRange     '15.5.5',
+876 silly addNameRange     '15.5.6',
+876 silly addNameRange     '15.5.7-alpha',
+876 silly addNameRange     '15.5.7-alpha.1',
+876 silly addNameRange     '15.5.7',
+876 silly addNameRange     '15.5.8',
+876 silly addNameRange     '15.5.9',
+876 silly addNameRange     '15.5.10',
+876 silly addNameRange     '15.6.0',
+876 silly addNameRange     '15.6.1',
+876 silly addNameRange     '15.6.2' ] ]
+877 silly addNamed prop-types@15.6.2
+878 verbose addNamed "15.6.2" is a plain semver version for prop-types
+879 silly mapToRegistry name prop-types
+880 silly mapToRegistry using default registry
+881 silly mapToRegistry registry https://registry.npmjs.org/
+882 silly mapToRegistry data Result {
+882 silly mapToRegistry   raw: 'prop-types',
+882 silly mapToRegistry   scope: null,
+882 silly mapToRegistry   name: 'prop-types',
+882 silly mapToRegistry   rawSpec: '',
+882 silly mapToRegistry   spec: 'latest',
+882 silly mapToRegistry   type: 'tag' }
+883 silly mapToRegistry uri https://registry.npmjs.org/prop-types
+884 verbose addRemoteTarball https://registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz not in flight; adding
+885 verbose addRemoteTarball [ 'https://registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz',
+885 verbose addRemoteTarball   '05d5ca77b4453e985d60fc7ff8c859094a497102' ]
+886 info retry fetch attempt 1 at 3:05:03 PM
+887 info attempt registry request try #1 at 3:05:03 PM
+888 http fetch GET https://registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz
+889 http 200 https://registry.npmjs.org/object-assign
+890 verbose headers { date: 'Sat, 15 Dec 2018 09:35:02 GMT',
+890 verbose headers   'content-type': 'application/json; charset=UTF-8',
+890 verbose headers   'transfer-encoding': 'chunked',
+890 verbose headers   connection: 'keep-alive',
+890 verbose headers   'set-cookie':
+890 verbose headers    [ '__cfduid=dd7209f05ca6cf31bb707ac60c40653021544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+890 verbose headers   'cf-cache-status': 'HIT',
+890 verbose headers   'cache-control': 'max-age=300',
+890 verbose headers   'cf-ray': '4897eafba956896f-MAA',
+890 verbose headers   etag: 'W/"d7609bf70dc4cde24cf456be05d80a7c"',
+890 verbose headers   'expect-ct':
+890 verbose headers    'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+890 verbose headers   'last-modified': 'Sun, 27 May 2018 10:57:26 GMT',
+890 verbose headers   vary: 'accept-encoding, accept',
+890 verbose headers   server: 'cloudflare',
+890 verbose headers   'content-encoding': 'gzip' }
+891 silly get cb [ 200,
+891 silly get   { date: 'Sat, 15 Dec 2018 09:35:02 GMT',
+891 silly get     'content-type': 'application/json; charset=UTF-8',
+891 silly get     'transfer-encoding': 'chunked',
+891 silly get     connection: 'keep-alive',
+891 silly get     'set-cookie':
+891 silly get      [ '__cfduid=dd7209f05ca6cf31bb707ac60c40653021544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+891 silly get     'cf-cache-status': 'HIT',
+891 silly get     'cache-control': 'max-age=300',
+891 silly get     'cf-ray': '4897eafba956896f-MAA',
+891 silly get     etag: 'W/"d7609bf70dc4cde24cf456be05d80a7c"',
+891 silly get     'expect-ct':
+891 silly get      'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+891 silly get     'last-modified': 'Sun, 27 May 2018 10:57:26 GMT',
+891 silly get     vary: 'accept-encoding, accept',
+891 silly get     server: 'cloudflare',
+891 silly get     'content-encoding': 'gzip' } ]
+892 verbose get saving object-assign to /home/anirban/.npm/registry.npmjs.org/object-assign/.cache.json
+893 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+894 silly addNameRange number 2 { name: 'object-assign', range: '>=4.1.1 <5.0.0', hasData: true }
+895 silly addNameRange versions [ 'object-assign',
+895 silly addNameRange   [ '0.1.0',
+895 silly addNameRange     '0.1.1',
+895 silly addNameRange     '0.1.2',
+895 silly addNameRange     '0.2.0',
+895 silly addNameRange     '0.2.1',
+895 silly addNameRange     '0.2.2',
+895 silly addNameRange     '0.3.0',
+895 silly addNameRange     '0.3.1',
+895 silly addNameRange     '0.4.0',
+895 silly addNameRange     '1.0.0',
+895 silly addNameRange     '2.0.0',
+895 silly addNameRange     '3.0.0',
+895 silly addNameRange     '2.1.1',
+895 silly addNameRange     '4.0.0',
+895 silly addNameRange     '4.0.1',
+895 silly addNameRange     '4.1.0',
+895 silly addNameRange     '4.1.1' ] ]
+896 silly addNamed object-assign@4.1.1
+897 verbose addNamed "4.1.1" is a plain semver version for object-assign
+898 silly mapToRegistry name object-assign
+899 silly mapToRegistry using default registry
+900 silly mapToRegistry registry https://registry.npmjs.org/
+901 silly mapToRegistry data Result {
+901 silly mapToRegistry   raw: 'object-assign',
+901 silly mapToRegistry   scope: null,
+901 silly mapToRegistry   name: 'object-assign',
+901 silly mapToRegistry   rawSpec: '',
+901 silly mapToRegistry   spec: 'latest',
+901 silly mapToRegistry   type: 'tag' }
+902 silly mapToRegistry uri https://registry.npmjs.org/object-assign
+903 verbose addRemoteTarball https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz not in flight; adding
+904 verbose addRemoteTarball [ 'https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz',
+904 verbose addRemoteTarball   '2109adc7965887cfc05cbbd442cac8bfbb360863' ]
+905 info retry fetch attempt 1 at 3:05:03 PM
+906 info attempt registry request try #1 at 3:05:03 PM
+907 http fetch GET https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz
+908 http fetch 200 https://registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz
+909 silly fetchAndShaCheck shasum 05d5ca77b4453e985d60fc7ff8c859094a497102
+910 verbose addTmpTarball /tmp/npm-14325-e7aed13c/registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz not in flight; adding
+911 verbose addTmpTarball already have metadata; skipping unpack for prop-types@15.6.2
+912 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+913 silly cache afterAdd prop-types@15.6.2
+914 verbose afterAdd /home/anirban/.npm/prop-types/15.6.2/package/package.json not in flight; writing
+915 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+916 verbose afterAdd /home/anirban/.npm/prop-types/15.6.2/package/package.json written
+917 http fetch 200 https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz
+918 silly fetchAndShaCheck shasum 2109adc7965887cfc05cbbd442cac8bfbb360863
+919 verbose addTmpTarball /tmp/npm-14325-e7aed13c/registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz not in flight; adding
+920 verbose addTmpTarball already have metadata; skipping unpack for object-assign@4.1.1
+921 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+922 silly cache afterAdd object-assign@4.1.1
+923 verbose afterAdd /home/anirban/.npm/object-assign/4.1.1/package/package.json not in flight; writing
+924 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+925 verbose afterAdd /home/anirban/.npm/object-assign/4.1.1/package/package.json written
+926 http 200 https://registry.npmjs.org/scheduler
+927 verbose headers { date: 'Sat, 15 Dec 2018 09:35:03 GMT',
+927 verbose headers   'content-type': 'application/json',
+927 verbose headers   'transfer-encoding': 'chunked',
+927 verbose headers   connection: 'keep-alive',
+927 verbose headers   'set-cookie':
+927 verbose headers    [ '__cfduid=d1f5fd14c1186e4021257f9688f88fe901544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+927 verbose headers   'cf-cache-status': 'HIT',
+927 verbose headers   'cache-control': 'max-age=300',
+927 verbose headers   'cf-ray': '4897eafb48412fab-MAA',
+927 verbose headers   etag: 'W/"a1301ca4fd8169c00bc4ed3ec7707dd1"',
+927 verbose headers   'expect-ct':
+927 verbose headers    'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+927 verbose headers   'last-modified': 'Fri, 14 Dec 2018 19:38:57 GMT',
+927 verbose headers   vary: 'accept-encoding, accept',
+927 verbose headers   'x-amz-meta-rev': '64-19328fdfdaace495e91a18d3dc0868c5',
+927 verbose headers   server: 'cloudflare',
+927 verbose headers   'content-encoding': 'gzip' }
+928 silly get cb [ 200,
+928 silly get   { date: 'Sat, 15 Dec 2018 09:35:03 GMT',
+928 silly get     'content-type': 'application/json',
+928 silly get     'transfer-encoding': 'chunked',
+928 silly get     connection: 'keep-alive',
+928 silly get     'set-cookie':
+928 silly get      [ '__cfduid=d1f5fd14c1186e4021257f9688f88fe901544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+928 silly get     'cf-cache-status': 'HIT',
+928 silly get     'cache-control': 'max-age=300',
+928 silly get     'cf-ray': '4897eafb48412fab-MAA',
+928 silly get     etag: 'W/"a1301ca4fd8169c00bc4ed3ec7707dd1"',
+928 silly get     'expect-ct':
+928 silly get      'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+928 silly get     'last-modified': 'Fri, 14 Dec 2018 19:38:57 GMT',
+928 silly get     vary: 'accept-encoding, accept',
+928 silly get     'x-amz-meta-rev': '64-19328fdfdaace495e91a18d3dc0868c5',
+928 silly get     server: 'cloudflare',
+928 silly get     'content-encoding': 'gzip' } ]
+929 verbose get saving scheduler to /home/anirban/.npm/registry.npmjs.org/scheduler/.cache.json
+930 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+931 silly addNameRange number 2 { name: 'scheduler', range: '>=0.11.2 <0.12.0', hasData: true }
+932 silly addNameRange versions [ 'scheduler',
+932 silly addNameRange   [ '0.1.0',
+932 silly addNameRange     '0.1.1',
+932 silly addNameRange     '0.5.0',
+932 silly addNameRange     '0.5.1',
+932 silly addNameRange     '0.5.2',
+932 silly addNameRange     '0.5.3',
+932 silly addNameRange     '0.6.0',
+932 silly addNameRange     '0.6.1',
+932 silly addNameRange     '0.7.1',
+932 silly addNameRange     '0.8.1',
+932 silly addNameRange     '0.9.0',
+932 silly addNameRange     '0.10.0-alpha.400d197',
+932 silly addNameRange     '0.10.0-alpha.f47a958',
+932 silly addNameRange     '0.10.0-alpha.8af6728',
+932 silly addNameRange     '0.10.0',
+932 silly addNameRange     '0.11.0-alpha.0',
+932 silly addNameRange     '0.11.0',
+932 silly addNameRange     '0.0.0-b98adb6-8e066f7-PARTIAL',
+932 silly addNameRange     '0.0.0-d5e1bf0-aee1b84',
+932 silly addNameRange     '0.0.0-a8988e4-1d1a717',
+932 silly addNameRange     '0.0.0-8b3c1e4-1d1a717',
+932 silly addNameRange     '0.0.0-0c756fb-697f004',
+932 silly addNameRange     '0.11.1',
+932 silly addNameRange     '0.0.0-0c756fb-f7f79fd',
+932 silly addNameRange     '0.11.2',
+932 silly addNameRange     '0.12.0-alpha.1',
+932 silly addNameRange     '0.12.0-alpha.2',
+932 silly addNameRange     '0.0.0-ed4c4a51c',
+932 silly addNameRange     '0.0.0-88ada9819',
+932 silly addNameRange     '0.0.0-c5b7d26c7',
+932 silly addNameRange     '0.12.0-alpha.3',
+932 silly addNameRange     '0.11.3',
+932 silly addNameRange     '0.0.0-7325ebe4d',
+932 silly addNameRange     '0.0.0-4a1072194' ] ]
+933 silly addNamed scheduler@0.11.3
+934 verbose addNamed "0.11.3" is a plain semver version for scheduler
+935 silly mapToRegistry name scheduler
+936 silly mapToRegistry using default registry
+937 silly mapToRegistry registry https://registry.npmjs.org/
+938 silly mapToRegistry data Result {
+938 silly mapToRegistry   raw: 'scheduler',
+938 silly mapToRegistry   scope: null,
+938 silly mapToRegistry   name: 'scheduler',
+938 silly mapToRegistry   rawSpec: '',
+938 silly mapToRegistry   spec: 'latest',
+938 silly mapToRegistry   type: 'tag' }
+939 silly mapToRegistry uri https://registry.npmjs.org/scheduler
+940 verbose addRemoteTarball https://registry.npmjs.org/scheduler/-/scheduler-0.11.3.tgz not in flight; adding
+941 verbose addRemoteTarball [ 'https://registry.npmjs.org/scheduler/-/scheduler-0.11.3.tgz',
+941 verbose addRemoteTarball   'b5769b90cf8b1464f3f3cfcafe8e3cd7555a2d6b' ]
+942 info retry fetch attempt 1 at 3:05:03 PM
+943 info attempt registry request try #1 at 3:05:03 PM
+944 http fetch GET https://registry.npmjs.org/scheduler/-/scheduler-0.11.3.tgz
+945 http fetch 200 https://registry.npmjs.org/scheduler/-/scheduler-0.11.3.tgz
+946 silly fetchAndShaCheck shasum b5769b90cf8b1464f3f3cfcafe8e3cd7555a2d6b
+947 verbose addTmpTarball /tmp/npm-14325-e7aed13c/registry.npmjs.org/scheduler/-/scheduler-0.11.3.tgz not in flight; adding
+948 verbose addTmpTarball already have metadata; skipping unpack for scheduler@0.11.3
+949 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+950 silly cache afterAdd scheduler@0.11.3
+951 verbose afterAdd /home/anirban/.npm/scheduler/0.11.3/package/package.json not in flight; writing
+952 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+953 verbose afterAdd /home/anirban/.npm/scheduler/0.11.3/package/package.json written
+954 http 200 https://registry.npmjs.org/loose-envify
+955 verbose headers { date: 'Sat, 15 Dec 2018 09:35:03 GMT',
+955 verbose headers   'content-type': 'application/json; charset=UTF-8',
+955 verbose headers   'transfer-encoding': 'chunked',
+955 verbose headers   connection: 'keep-alive',
+955 verbose headers   'set-cookie':
+955 verbose headers    [ '__cfduid=dd7209f05ca6cf31bb707ac60c40653021544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+955 verbose headers   'cf-cache-status': 'REVALIDATED',
+955 verbose headers   'cache-control': 'max-age=300',
+955 verbose headers   'cf-ray': '4897eafad8ce896f-MAA',
+955 verbose headers   etag: 'W/"ff7dfaf14204cb0931ee4ffe2c39c3ce"',
+955 verbose headers   'expect-ct':
+955 verbose headers    'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+955 verbose headers   'last-modified': 'Tue, 10 Jul 2018 11:09:50 GMT',
+955 verbose headers   vary: 'accept-encoding, accept',
+955 verbose headers   server: 'cloudflare',
+955 verbose headers   'content-encoding': 'gzip' }
+956 silly get cb [ 200,
+956 silly get   { date: 'Sat, 15 Dec 2018 09:35:03 GMT',
+956 silly get     'content-type': 'application/json; charset=UTF-8',
+956 silly get     'transfer-encoding': 'chunked',
+956 silly get     connection: 'keep-alive',
+956 silly get     'set-cookie':
+956 silly get      [ '__cfduid=dd7209f05ca6cf31bb707ac60c40653021544866502; expires=Sun, 15-Dec-19 09:35:02 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+956 silly get     'cf-cache-status': 'REVALIDATED',
+956 silly get     'cache-control': 'max-age=300',
+956 silly get     'cf-ray': '4897eafad8ce896f-MAA',
+956 silly get     etag: 'W/"ff7dfaf14204cb0931ee4ffe2c39c3ce"',
+956 silly get     'expect-ct':
+956 silly get      'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+956 silly get     'last-modified': 'Tue, 10 Jul 2018 11:09:50 GMT',
+956 silly get     vary: 'accept-encoding, accept',
+956 silly get     server: 'cloudflare',
+956 silly get     'content-encoding': 'gzip' } ]
+957 verbose get saving loose-envify to /home/anirban/.npm/registry.npmjs.org/loose-envify/.cache.json
+958 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+959 silly addNameRange number 2 { name: 'loose-envify', range: '>=1.1.0 <2.0.0', hasData: true }
+960 silly addNameRange versions [ 'loose-envify',
+960 silly addNameRange   [ '1.0.0', '1.1.0', '1.2.0', '1.3.0', '1.3.1', '1.4.0' ] ]
+961 silly addNamed loose-envify@1.4.0
+962 verbose addNamed "1.4.0" is a plain semver version for loose-envify
+963 silly mapToRegistry name loose-envify
+964 silly mapToRegistry using default registry
+965 silly mapToRegistry registry https://registry.npmjs.org/
+966 silly mapToRegistry data Result {
+966 silly mapToRegistry   raw: 'loose-envify',
+966 silly mapToRegistry   scope: null,
+966 silly mapToRegistry   name: 'loose-envify',
+966 silly mapToRegistry   rawSpec: '',
+966 silly mapToRegistry   spec: 'latest',
+966 silly mapToRegistry   type: 'tag' }
+967 silly mapToRegistry uri https://registry.npmjs.org/loose-envify
+968 verbose addRemoteTarball https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz not in flight; adding
+969 verbose addRemoteTarball [ 'https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz',
+969 verbose addRemoteTarball   '71ee51fa7be4caec1a63839f7e682d8132d30caf' ]
+970 info retry fetch attempt 1 at 3:05:03 PM
+971 info attempt registry request try #1 at 3:05:03 PM
+972 http fetch GET https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz
+973 http fetch 200 https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz
+974 silly fetchAndShaCheck shasum 71ee51fa7be4caec1a63839f7e682d8132d30caf
+975 verbose addTmpTarball /tmp/npm-14325-e7aed13c/registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz not in flight; adding
+976 verbose addTmpTarball already have metadata; skipping unpack for loose-envify@1.4.0
+977 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+978 silly cache afterAdd loose-envify@1.4.0
+979 verbose afterAdd /home/anirban/.npm/loose-envify/1.4.0/package/package.json not in flight; writing
+980 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+981 verbose afterAdd /home/anirban/.npm/loose-envify/1.4.0/package/package.json written
+982 silly install resolved [ { name: 'prop-types',
+982 silly install resolved     version: '15.6.2',
+982 silly install resolved     description: 'Runtime type checking for React props and similar objects.',
+982 silly install resolved     main: 'index.js',
+982 silly install resolved     license: 'MIT',
+982 silly install resolved     files:
+982 silly install resolved      [ 'LICENSE',
+982 silly install resolved        'README.md',
+982 silly install resolved        'checkPropTypes.js',
+982 silly install resolved        'factory.js',
+982 silly install resolved        'factoryWithThrowingShims.js',
+982 silly install resolved        'factoryWithTypeCheckers.js',
+982 silly install resolved        'index.js',
+982 silly install resolved        'prop-types.js',
+982 silly install resolved        'prop-types.min.js',
+982 silly install resolved        'lib' ],
+982 silly install resolved     repository:
+982 silly install resolved      { type: 'git',
+982 silly install resolved        url: 'git+https://github.com/facebook/prop-types.git' },
+982 silly install resolved     keywords: [ 'react' ],
+982 silly install resolved     bugs: { url: 'https://github.com/facebook/prop-types/issues' },
+982 silly install resolved     homepage: 'https://facebook.github.io/react/',
+982 silly install resolved     dependencies: { 'loose-envify': '^1.3.1', 'object-assign': '^4.1.1' },
+982 silly install resolved     scripts:
+982 silly install resolved      { test: 'jest',
+982 silly install resolved        umd:
+982 silly install resolved         'NODE_ENV=development browserify index.js -t envify --standalone PropTypes -o prop-types.js',
+982 silly install resolved        'umd-min':
+982 silly install resolved         'NODE_ENV=production browserify index.js -t envify -t uglifyify --standalone PropTypes  -p bundle-collapser/plugin -o | uglifyjs --compress unused,dead_code -o prop-types.min.js',
+982 silly install resolved        build: 'yarn umd && yarn umd-min',
+982 silly install resolved        prepublish: 'yarn build' },
+982 silly install resolved     devDependencies:
+982 silly install resolved      { 'babel-jest': '^19.0.0',
+982 silly install resolved        'babel-preset-react': '^6.24.1',
+982 silly install resolved        browserify: '^14.3.0',
+982 silly install resolved        'bundle-collapser': '^1.2.1',
+982 silly install resolved        envify: '^4.0.0',
+982 silly install resolved        jest: '^19.0.2',
+982 silly install resolved        react: '^15.5.1',
+982 silly install resolved        uglifyify: '^3.0.4',
+982 silly install resolved        uglifyjs: '^2.4.10' },
+982 silly install resolved     browserify: { transform: [Array] },
+982 silly install resolved     gitHead: 'fa6fbb78f63f48085d223b51493be416bb49d433',
+982 silly install resolved     _id: 'prop-types@15.6.2',
+982 silly install resolved     _npmVersion: '5.6.0',
+982 silly install resolved     _nodeVersion: '8.9.4',
+982 silly install resolved     _npmUser: { name: 'gaearon', email: 'dan.abramov@gmail.com' },
+982 silly install resolved     dist:
+982 silly install resolved      { integrity:
+982 silly install resolved         'sha512-3pboPvLiWD7dkI3qf3KbUe6hKFKa52w+AE0VCqECtf+QHAKgOL37tTaNCnuX1nAAQ4ZhyP+kYVKf8rLmJ/feDQ==',
+982 silly install resolved        shasum: '05d5ca77b4453e985d60fc7ff8c859094a497102',
+982 silly install resolved        tarball:
+982 silly install resolved         'https://registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz',
+982 silly install resolved        fileCount: 12,
+982 silly install resolved        unpackedSize: 76276,
+982 silly install resolved        'npm-signature':
+982 silly install resolved         '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbKSc0CRA9TVsSAnZWagAAzrUP/1ZOEi3zvsfdPvaafERO\nSUERb8RXz95I2o2NPmPcWea67oLIzZryc2f3zEyU7P5c8qoBnaEfOI3Lmg/G\nXH8OKim4dVkLlEAfe44YfI/3MPQg6tzjZJxiuelZWZKi7Lgxt+jhpkJ9Pi00\nPHtwxge1WhkQPgFzOK/v6h9cgN/SQsV0UXhiii1ItVEZ4/vQ7CpU4KACop+Q\nrlg9yGCA3XH2sUNuoEsrH8zOrzToN/nuP1I6absyei/TJWWq81ODex22+nmv\nrWYs8UnJUEnm2SSXeiQvmay0WEmXYyv7B4kcK/L9Ja152OT/IJxYNx8Iunfi\nRuLBu6joFRAroHSKMQMaVYO7fM3zuDtWhNRo31baHR+0jOkYyfwZiZBw04Ap\nZpD6yJcrKhG82+ajV/Jexrni2LsEWvqP9twMTPbAi0noNC8JzcD6WwYCc15W\nNpRjBCVY0qwD7VZV7GQODI4yaxrR8EwoNCB+wuJeli0D6nRc+G9L9XMYwhQ8\nG887dJaU4sTYiW52JNDo041OmO2ICe5gLS6H9pVpzk2voz7Eivuqg4OLHA29\np9ZyGxSz/bYOQtA33RfuMeOJaV3jQs8jpg0nHJ8PLtZGh6zbAlM7BRtUMoNj\nrLZ12RKH894fu+1LpKdd319g8yAu4pAtt0Qyjx6V6zP3wwzd8KpKI4eIgBP1\nSYuz\r\n=ZY2h\r\n-----END PGP SIGNATURE-----\r\n' },
+982 silly install resolved     maintainers:
+982 silly install resolved      [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+982 silly install resolved     directories: {},
+982 silly install resolved     _npmOperationalInternal:
+982 silly install resolved      { host: 's3://npm-registry-packages',
+982 silly install resolved        tmp: 'tmp/prop-types_15.6.2_1529423660546_0.5239121850185182' },
+982 silly install resolved     _hasShrinkwrap: false,
+982 silly install resolved     _shasum: '05d5ca77b4453e985d60fc7ff8c859094a497102',
+982 silly install resolved     _resolved:
+982 silly install resolved      'https://registry.npmjs.org/prop-types/-/prop-types-15.6.2.tgz',
+982 silly install resolved     _from: 'prop-types@>=15.6.2 <16.0.0' },
+982 silly install resolved   { name: 'object-assign',
+982 silly install resolved     version: '4.1.1',
+982 silly install resolved     description: 'ES2015 `Object.assign()` ponyfill',
+982 silly install resolved     license: 'MIT',
+982 silly install resolved     repository:
+982 silly install resolved      { type: 'git',
+982 silly install resolved        url: 'git+https://github.com/sindresorhus/object-assign.git' },
+982 silly install resolved     author:
+982 silly install resolved      { name: 'Sindre Sorhus',
+982 silly install resolved        email: 'sindresorhus@gmail.com',
+982 silly install resolved        url: 'sindresorhus.com' },
+982 silly install resolved     engines: { node: '>=0.10.0' },
+982 silly install resolved     scripts: { test: 'xo && ava', bench: 'matcha bench.js' },
+982 silly install resolved     files: [ 'index.js' ],
+982 silly install resolved     keywords:
+982 silly install resolved      [ 'object',
+982 silly install resolved        'assign',
+982 silly install resolved        'extend',
+982 silly install resolved        'properties',
+982 silly install resolved        'es2015',
+982 silly install resolved        'ecmascript',
+982 silly install resolved        'harmony',
+982 silly install resolved        'ponyfill',
+982 silly install resolved        'prollyfill',
+982 silly install resolved        'polyfill',
+982 silly install resolved        'shim',
+982 silly install resolved        'browser' ],
+982 silly install resolved     devDependencies:
+982 silly install resolved      { ava: '^0.16.0',
+982 silly install resolved        lodash: '^4.16.4',
+982 silly install resolved        matcha: '^0.7.0',
+982 silly install resolved        xo: '^0.16.0' },
+982 silly install resolved     gitHead: 'a89774b252c91612203876984bbd6addbe3b5a0e',
+982 silly install resolved     bugs:
+982 silly install resolved      { url: 'https://github.com/sindresorhus/object-assign/issues' },
+982 silly install resolved     homepage: 'https://github.com/sindresorhus/object-assign#readme',
+982 silly install resolved     _id: 'object-assign@4.1.1',
+982 silly install resolved     _shasum: '2109adc7965887cfc05cbbd442cac8bfbb360863',
+982 silly install resolved     _from: 'object-assign@>=4.1.1 <5.0.0',
+982 silly install resolved     _npmVersion: '2.15.11',
+982 silly install resolved     _nodeVersion: '4.6.2',
+982 silly install resolved     _npmUser: { name: 'sindresorhus', email: 'sindresorhus@gmail.com' },
+982 silly install resolved     dist:
+982 silly install resolved      { shasum: '2109adc7965887cfc05cbbd442cac8bfbb360863',
+982 silly install resolved        tarball:
+982 silly install resolved         'https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz' },
+982 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+982 silly install resolved     _npmOperationalInternal:
+982 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+982 silly install resolved        tmp:
+982 silly install resolved         'tmp/object-assign-4.1.1.tgz_1484580915042_0.07107710791751742' },
+982 silly install resolved     directories: {},
+982 silly install resolved     _resolved:
+982 silly install resolved      'https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz' },
+982 silly install resolved   { name: 'scheduler',
+982 silly install resolved     version: '0.11.3',
+982 silly install resolved     description: 'Cooperative scheduler for the browser environment.',
+982 silly install resolved     main: 'index.js',
+982 silly install resolved     repository:
+982 silly install resolved      { type: 'git',
+982 silly install resolved        url: 'git+https://github.com/facebook/react.git' },
+982 silly install resolved     license: 'MIT',
+982 silly install resolved     keywords: [ 'react' ],
+982 silly install resolved     bugs: { url: 'https://github.com/facebook/react/issues' },
+982 silly install resolved     homepage: 'https://reactjs.org/',
+982 silly install resolved     dependencies: { 'loose-envify': '^1.1.0', 'object-assign': '^4.1.1' },
+982 silly install resolved     browserify: { transform: [Array] },
+982 silly install resolved     _id: 'scheduler@0.11.3',
+982 silly install resolved     _npmVersion: '6.4.1',
+982 silly install resolved     _nodeVersion: '10.12.0',
+982 silly install resolved     _npmUser: { name: 'brianvaughn', email: 'briandavidvaughn@gmail.com' },
+982 silly install resolved     dist:
+982 silly install resolved      { integrity:
+982 silly install resolved         'sha512-i9X9VRRVZDd3xZw10NY5Z2cVMbdYg6gqFecfj79USv1CFN+YrJ3gIPRKf1qlY+Sxly4djoKdfx1T+m9dnRB8kQ==',
+982 silly install resolved        shasum: 'b5769b90cf8b1464f3f3cfcafe8e3cd7555a2d6b',
+982 silly install resolved        tarball:
+982 silly install resolved         'https://registry.npmjs.org/scheduler/-/scheduler-0.11.3.tgz',
+982 silly install resolved        fileCount: 18,
+982 silly install resolved        unpackedSize: 58521,
+982 silly install resolved        'npm-signature':
+982 silly install resolved         '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcBYZLCRA9TVsSAnZWagAAoZIQAJ2PD390KykZrvhDoghS\nVRdkwXvhWJ3qa2kF8C/6wj5VYi0TYs6TSNdVyCHcRu/Jq9zHBpNiZFz6knjT\nXhGe880ftoiCPgdHxTrSKbWHzMuiu1YB5WcvGZqfq9ltu+NYISSuK+gh0Lh2\nSThJ99eNNV0rYWP5OsJLW6CSV1o6JkG7speZcw5Ye9EYt4HSjNuqHeRbYAK/\njo9/vOBLVM4CNNpst5oYYXHSKUCQV9gZGGPF50wyQlXJkHZq+A7T2Vlxrlyh\nJNO0dCD5uWw+/T7eG8ANRx6xNFvgN0T99mVw1s6Ef8BGfKAPF/pbVEHP0WKB\nTalpdBFz+WPTV2DMWarNejm2WlSStBy+WTXfHjBcyVSPMAyNUamD7r5aqkUi\noT4H2/CY45U1KLv+8Qhmj2ljmPS7o+b1b3VNKDl74vFWM2rEcrph9zHF0nLh\nMqw8s2z4/6GJr7RhkQq6uLiiwz1c8Ay294ukwQfY5sVJAAEALrZrb8ZFyaIg\nSptULzxBE13ZNQ1FCfyqwTwueMZRQnxrWpB7JU/b9wOzpVBxvOB6Gf93ov5J\n5f6jMZvxG3au1iUm6olHq8c7fEdcXPuz21qkkTKeBpShzgGrWSAh3Rz8sbz/\nePCIme2JmVl/srXwfT5ffkQN7YKr+wUwrcbzR2gv88ztKkDSyR7RagKyDbe/\nROSJ\r\n=n0j6\r\n-----END PGP SIGNATURE-----\r\n' },
+982 silly install resolved     maintainers:
+982 silly install resolved      [ [Object],
+982 silly install resolved        [Object],
+982 silly install resolved        [Object],
+982 silly install resolved        [Object],
+982 silly install resolved        [Object],
+982 silly install resolved        [Object],
+982 silly install resolved        [Object],
+982 silly install resolved        [Object] ],
+982 silly install resolved     directories: {},
+982 silly install resolved     _npmOperationalInternal:
+982 silly install resolved      { host: 's3://npm-registry-packages',
+982 silly install resolved        tmp: 'tmp/scheduler_0.11.3_1543865931191_0.03165689588850018' },
+982 silly install resolved     _hasShrinkwrap: false,
+982 silly install resolved     _shasum: 'b5769b90cf8b1464f3f3cfcafe8e3cd7555a2d6b',
+982 silly install resolved     _resolved:
+982 silly install resolved      'https://registry.npmjs.org/scheduler/-/scheduler-0.11.3.tgz',
+982 silly install resolved     _from: 'scheduler@>=0.11.2 <0.12.0' },
+982 silly install resolved   { name: 'loose-envify',
+982 silly install resolved     version: '1.4.0',
+982 silly install resolved     description:
+982 silly install resolved      'Fast (and loose) selective `process.env` replacer using js-tokens instead of an AST',
+982 silly install resolved     keywords:
+982 silly install resolved      [ 'environment',
+982 silly install resolved        'variables',
+982 silly install resolved        'browserify',
+982 silly install resolved        'browserify-transform',
+982 silly install resolved        'transform',
+982 silly install resolved        'source',
+982 silly install resolved        'configuration' ],
+982 silly install resolved     homepage: 'https://github.com/zertosh/loose-envify',
+982 silly install resolved     license: 'MIT',
+982 silly install resolved     author: { name: 'Andres Suarez', email: 'zertosh@gmail.com' },
+982 silly install resolved     main: 'index.js',
+982 silly install resolved     bin: { 'loose-envify': 'cli.js' },
+982 silly install resolved     repository:
+982 silly install resolved      { type: 'git',
+982 silly install resolved        url: 'git://github.com/zertosh/loose-envify.git' },
+982 silly install resolved     scripts: { test: 'tap test/*.js' },
+982 silly install resolved     dependencies: { 'js-tokens': '^3.0.0 || ^4.0.0' },
+982 silly install resolved     devDependencies: { browserify: '^13.1.1', envify: '^3.4.0', tap: '^8.0.0' },
+982 silly install resolved     gitHead: 'a8fdd02e3a435195f526053882d64537d627b3e6',
+982 silly install resolved     bugs: { url: 'https://github.com/zertosh/loose-envify/issues' },
+982 silly install resolved     _id: 'loose-envify@1.4.0',
+982 silly install resolved     _npmVersion: '6.1.0',
+982 silly install resolved     _nodeVersion: '10.6.0',
+982 silly install resolved     _npmUser: { name: 'zertosh', email: 'zertosh@gmail.com' },
+982 silly install resolved     dist:
+982 silly install resolved      { integrity:
+982 silly install resolved         'sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==',
+982 silly install resolved        shasum: '71ee51fa7be4caec1a63839f7e682d8132d30caf',
+982 silly install resolved        tarball:
+982 silly install resolved         'https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz',
+982 silly install resolved        fileCount: 8,
+982 silly install resolved        unpackedSize: 5814,
+982 silly install resolved        'npm-signature':
+982 silly install resolved         '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbRJP5CRA9TVsSAnZWagAAQQ4P+wRneDh61dzk3uPX6QCb\nZ97i+VxSY74ti8gVGSCryXFkL8zPsjlBd1/yADnaS5y6InlHuHQZQ2820I3x\ngfSjlhCU9drbF8vXw7FSxIRQfFO5JvF7+L5M1mvsDVmz024M+97DQwFnRjo5\nCvSDVLC/HbnnTRX1Cfj9kQlDVS85RhLaDvYWendfUfivp++TwUizDUTS8nOu\nVIiwXygaef55bBmo+yNeQa+GmyAWET3jAaPl0MNBht6jtnMY9ZkgwXc03zaE\n0wRcOZbBfhUKk1VEk2TCN/TtN+AyktbI5rmyQXoHBGn3HjZntI/LjLmAw9dD\ndetTKPf1O2n8KLT/tGZjIRQjQWNbB51thQ4H3KsMBSfbIhdnZvFHmnDKilug\nIGjE4lKa4px0/ac+SBw6wQuZMy4I3xCbZd59qSpPB3IO0E+Qm+rhLdUiMDjf\n2y49xwMB7dixjRv7sLLqYwiSkXGkLp1N81drN7oNoZaLxOVCbJQKYoHwnsY4\ncoRc7W768FaKwZJPIWfZK2u2MAq5TL4v2+2laxAn25K5Qs6hh8rguSho7iPR\nZcaKA/maVJo8BGO+CEqvaysfUbnYZ06VOFnzG/TbLnLlmZUMMex95z8RloP8\n4kcoh3muuqd75sMUDURgjFCvXbQeORMZ3sa+G8h716pUVjvKLu5xNOF7qCN0\npadk\r\n=rcpJ\r\n-----END PGP SIGNATURE-----\r\n' },
+982 silly install resolved     maintainers: [ [Object] ],
+982 silly install resolved     directories: {},
+982 silly install resolved     _npmOperationalInternal:
+982 silly install resolved      { host: 's3://npm-registry-packages',
+982 silly install resolved        tmp: 'tmp/loose-envify_1.4.0_1531220985830_0.4259877346481684' },
+982 silly install resolved     _shasum: '71ee51fa7be4caec1a63839f7e682d8132d30caf',
+982 silly install resolved     _resolved:
+982 silly install resolved      'https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz',
+982 silly install resolved     _from: 'loose-envify@>=1.1.0 <2.0.0' } ]
+983 info install prop-types@15.6.2 into /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+984 info install object-assign@4.1.1 into /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+985 info install scheduler@0.11.3 into /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+986 info install loose-envify@1.4.0 into /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+987 info installOne prop-types@15.6.2
+988 verbose installOne of prop-types to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react not in flight; installing
+989 verbose correctMkdir /home/anirban/.npm/_locks correctMkdir not in flight; initializing
+990 info installOne object-assign@4.1.1
+991 verbose installOne of object-assign to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react not in flight; installing
+992 verbose correctMkdir /home/anirban/.npm/_locks correctMkdir not in flight; initializing
+993 info installOne scheduler@0.11.3
+994 verbose installOne of scheduler to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react not in flight; installing
+995 verbose correctMkdir /home/anirban/.npm/_locks correctMkdir not in flight; initializing
+996 info installOne loose-envify@1.4.0
+997 verbose installOne of loose-envify to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react not in flight; installing
+998 verbose correctMkdir /home/anirban/.npm/_locks correctMkdir not in flight; initializing
+999 verbose lock using /home/anirban/.npm/_locks/prop-types-3e0c43dd5f0af5d9.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1000 verbose lock using /home/anirban/.npm/_locks/object-assign-65300a9cb90bdf69.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1001 verbose lock using /home/anirban/.npm/_locks/scheduler-bb6ee670c6b16324.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1002 verbose lock using /home/anirban/.npm/_locks/loose-envify-0d9dd86582a9d48e.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1003 silly install write writing prop-types 15.6.2 to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1004 silly install write writing object-assign 4.1.1 to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1005 silly install write writing scheduler 0.11.3 to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1006 silly install write writing loose-envify 1.4.0 to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1007 verbose unbuild node_modules/react/node_modules/prop-types
+1008 verbose unbuild node_modules/react/node_modules/object-assign
+1009 verbose unbuild node_modules/react/node_modules/scheduler
+1010 verbose unbuild node_modules/react/node_modules/loose-envify
+1011 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types is being purged from base /home/anirban/IdeaProjects/TNTS_CRM_2
+1012 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1013 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign is being purged from base /home/anirban/IdeaProjects/TNTS_CRM_2
+1014 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1015 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler is being purged from base /home/anirban/IdeaProjects/TNTS_CRM_2
+1016 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1017 verbose tar unpack /home/anirban/.npm/prop-types/15.6.2/package.tgz
+1018 verbose tar unpacking to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1019 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types is being purged
+1020 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1021 verbose tar unpack /home/anirban/.npm/object-assign/4.1.1/package.tgz
+1022 verbose tar unpacking to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1023 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign is being purged
+1024 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1025 verbose tar unpack /home/anirban/.npm/scheduler/0.11.3/package.tgz
+1026 verbose tar unpacking to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1027 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler is being purged
+1028 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1029 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify is being purged from base /home/anirban/IdeaProjects/TNTS_CRM_2
+1030 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1031 silly gunzTarPerm modes [ '775', '664' ]
+1032 silly gunzTarPerm modes [ '775', '664' ]
+1033 silly gunzTarPerm modes [ '775', '664' ]
+1034 verbose tar unpack /home/anirban/.npm/loose-envify/1.4.0/package.tgz
+1035 verbose tar unpacking to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1036 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify is being purged
+1037 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1038 silly gunzTarPerm modes [ '775', '664' ]
+1039 silly gunzTarPerm extractEntry package.json
+1040 silly gunzTarPerm modified mode [ 'package.json', 420, 436 ]
+1041 silly gunzTarPerm extractEntry package.json
+1042 silly gunzTarPerm modified mode [ 'package.json', 420, 436 ]
+1043 silly gunzTarPerm extractEntry package.json
+1044 silly gunzTarPerm modified mode [ 'package.json', 420, 436 ]
+1045 silly gunzTarPerm extractEntry CHANGELOG.md
+1046 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 436 ]
+1047 silly gunzTarPerm extractEntry checkPropTypes.js
+1048 silly gunzTarPerm modified mode [ 'checkPropTypes.js', 420, 436 ]
+1049 silly gunzTarPerm extractEntry package.json
+1050 silly gunzTarPerm modified mode [ 'package.json', 420, 436 ]
+1051 silly gunzTarPerm extractEntry build-info.json
+1052 silly gunzTarPerm modified mode [ 'build-info.json', 420, 436 ]
+1053 silly gunzTarPerm extractEntry index.js
+1054 silly gunzTarPerm modified mode [ 'index.js', 420, 436 ]
+1055 silly gunzTarPerm extractEntry index.js
+1056 silly gunzTarPerm modified mode [ 'index.js', 420, 436 ]
+1057 silly gunzTarPerm extractEntry license
+1058 silly gunzTarPerm modified mode [ 'license', 420, 436 ]
+1059 silly gunzTarPerm extractEntry factory.js
+1060 silly gunzTarPerm modified mode [ 'factory.js', 420, 436 ]
+1061 silly gunzTarPerm extractEntry factoryWithThrowingShims.js
+1062 silly gunzTarPerm modified mode [ 'factoryWithThrowingShims.js', 420, 436 ]
+1063 silly gunzTarPerm extractEntry cli.js
+1064 silly gunzTarPerm modified mode [ 'cli.js', 493, 509 ]
+1065 silly gunzTarPerm extractEntry custom.js
+1066 silly gunzTarPerm modified mode [ 'custom.js', 420, 436 ]
+1067 silly gunzTarPerm extractEntry LICENSE
+1068 silly gunzTarPerm modified mode [ 'LICENSE', 420, 436 ]
+1069 silly gunzTarPerm extractEntry README.md
+1070 silly gunzTarPerm modified mode [ 'README.md', 420, 436 ]
+1071 silly gunzTarPerm extractEntry readme.md
+1072 silly gunzTarPerm modified mode [ 'readme.md', 420, 436 ]
+1073 silly gunzTarPerm extractEntry factoryWithTypeCheckers.js
+1074 silly gunzTarPerm modified mode [ 'factoryWithTypeCheckers.js', 420, 436 ]
+1075 silly gunzTarPerm extractEntry index.js
+1076 silly gunzTarPerm modified mode [ 'index.js', 420, 436 ]
+1077 silly gunzTarPerm extractEntry LICENSE
+1078 silly gunzTarPerm modified mode [ 'LICENSE', 420, 436 ]
+1079 silly gunzTarPerm extractEntry prop-types.js
+1080 silly gunzTarPerm modified mode [ 'prop-types.js', 420, 436 ]
+1081 silly gunzTarPerm extractEntry prop-types.min.js
+1082 silly gunzTarPerm modified mode [ 'prop-types.min.js', 420, 436 ]
+1083 silly gunzTarPerm extractEntry README.md
+1084 silly gunzTarPerm modified mode [ 'README.md', 420, 436 ]
+1085 silly gunzTarPerm extractEntry lib/ReactPropTypesSecret.js
+1086 silly gunzTarPerm modified mode [ 'lib/ReactPropTypesSecret.js', 420, 436 ]
+1087 silly gunzTarPerm extractEntry index.js
+1088 silly gunzTarPerm modified mode [ 'index.js', 420, 436 ]
+1089 silly gunzTarPerm extractEntry LICENSE
+1090 silly gunzTarPerm modified mode [ 'LICENSE', 420, 436 ]
+1091 silly gunzTarPerm extractEntry tracing-profiling.js
+1092 silly gunzTarPerm modified mode [ 'tracing-profiling.js', 420, 436 ]
+1093 silly gunzTarPerm extractEntry tracing.js
+1094 silly gunzTarPerm modified mode [ 'tracing.js', 420, 436 ]
+1095 silly gunzTarPerm extractEntry loose-envify.js
+1096 silly gunzTarPerm modified mode [ 'loose-envify.js', 420, 436 ]
+1097 silly gunzTarPerm extractEntry README.md
+1098 silly gunzTarPerm modified mode [ 'README.md', 420, 436 ]
+1099 silly gunzTarPerm extractEntry cjs/scheduler-tracing.development.js
+1100 silly gunzTarPerm modified mode [ 'cjs/scheduler-tracing.development.js', 420, 436 ]
+1101 silly gunzTarPerm extractEntry cjs/scheduler-tracing.production.min.js
+1102 silly gunzTarPerm modified mode [ 'cjs/scheduler-tracing.production.min.js', 420, 436 ]
+1103 silly gunzTarPerm extractEntry cjs/scheduler-tracing.profiling.min.js
+1104 silly gunzTarPerm modified mode [ 'cjs/scheduler-tracing.profiling.min.js', 420, 436 ]
+1105 silly gunzTarPerm extractEntry cjs/scheduler.development.js
+1106 silly gunzTarPerm modified mode [ 'cjs/scheduler.development.js', 420, 436 ]
+1107 silly gunzTarPerm extractEntry cjs/scheduler.production.min.js
+1108 silly gunzTarPerm modified mode [ 'cjs/scheduler.production.min.js', 420, 436 ]
+1109 silly gunzTarPerm extractEntry umd/scheduler-tracing.development.js
+1110 silly gunzTarPerm modified mode [ 'umd/scheduler-tracing.development.js', 420, 436 ]
+1111 silly gunzTarPerm extractEntry umd/scheduler-tracing.production.min.js
+1112 silly gunzTarPerm modified mode [ 'umd/scheduler-tracing.production.min.js', 420, 436 ]
+1113 silly gunzTarPerm extractEntry umd/scheduler-tracing.profiling.min.js
+1114 silly gunzTarPerm modified mode [ 'umd/scheduler-tracing.profiling.min.js', 420, 436 ]
+1115 silly gunzTarPerm extractEntry umd/scheduler.development.js
+1116 silly gunzTarPerm modified mode [ 'umd/scheduler.development.js', 420, 436 ]
+1117 silly gunzTarPerm extractEntry umd/scheduler.production.min.js
+1118 silly gunzTarPerm modified mode [ 'umd/scheduler.production.min.js', 420, 436 ]
+1119 silly gunzTarPerm extractEntry umd/scheduler.profiling.min.js
+1120 silly gunzTarPerm modified mode [ 'umd/scheduler.profiling.min.js', 420, 436 ]
+1121 silly gunzTarPerm extractEntry replace.js
+1122 silly gunzTarPerm modified mode [ 'replace.js', 420, 436 ]
+1123 verbose write writing to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign/package.json
+1124 info preinstall object-assign@4.1.1
+1125 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign/package.json
+1126 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign/package.json
+1127 silly install resolved []
+1128 verbose about to build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1129 info build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1130 verbose write writing to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/package.json
+1131 info linkStuff object-assign@4.1.1
+1132 silly linkStuff object-assign@4.1.1 has /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules as its parent node_modules
+1133 info preinstall loose-envify@1.4.0
+1134 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/package.json
+1135 verbose linkBins object-assign@4.1.1
+1136 verbose linkMans object-assign@4.1.1
+1137 verbose rebuildBundles object-assign@4.1.1
+1138 info install object-assign@4.1.1
+1139 info postinstall object-assign@4.1.1
+1140 silly prepareForInstallMany adding js-tokens@^3.0.0 || ^4.0.0 from loose-envify dependencies
+1141 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/package.json
+1142 verbose write writing to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types/package.json
+1143 silly cache add args [ 'js-tokens@^3.0.0 || ^4.0.0', null ]
+1144 verbose cache add spec js-tokens@^3.0.0 || ^4.0.0
+1145 silly cache add parsed spec Result {
+1145 silly cache add   raw: 'js-tokens@^3.0.0 || ^4.0.0',
+1145 silly cache add   scope: null,
+1145 silly cache add   name: 'js-tokens',
+1145 silly cache add   rawSpec: '^3.0.0 || ^4.0.0',
+1145 silly cache add   spec: '>=3.0.0 <4.0.0||>=4.0.0 <5.0.0',
+1145 silly cache add   type: 'range' }
+1146 silly addNamed js-tokens@>=3.0.0 <4.0.0||>=4.0.0 <5.0.0
+1147 verbose addNamed ">=3.0.0 <4.0.0||>=4.0.0 <5.0.0" is a valid semver range for js-tokens
+1148 silly addNameRange { name: 'js-tokens',
+1148 silly addNameRange   range: '>=3.0.0 <4.0.0||>=4.0.0 <5.0.0',
+1148 silly addNameRange   hasData: false }
+1149 silly mapToRegistry name js-tokens
+1150 silly mapToRegistry using default registry
+1151 silly mapToRegistry registry https://registry.npmjs.org/
+1152 silly mapToRegistry data Result {
+1152 silly mapToRegistry   raw: 'js-tokens',
+1152 silly mapToRegistry   scope: null,
+1152 silly mapToRegistry   name: 'js-tokens',
+1152 silly mapToRegistry   rawSpec: '',
+1152 silly mapToRegistry   spec: 'latest',
+1152 silly mapToRegistry   type: 'tag' }
+1153 silly mapToRegistry uri https://registry.npmjs.org/js-tokens
+1154 verbose addNameRange registry:https://registry.npmjs.org/js-tokens not in flight; fetching
+1155 verbose request uri https://registry.npmjs.org/js-tokens
+1156 verbose request no auth needed
+1157 info attempt registry request try #1 at 3:05:04 PM
+1158 http request GET https://registry.npmjs.org/js-tokens
+1159 info preinstall prop-types@15.6.2
+1160 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types/package.json
+1161 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types/package.json
+1162 silly install resolved []
+1163 verbose about to build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1164 info build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1165 info linkStuff prop-types@15.6.2
+1166 silly linkStuff prop-types@15.6.2 has /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules as its parent node_modules
+1167 verbose linkBins prop-types@15.6.2
+1168 verbose linkMans prop-types@15.6.2
+1169 verbose rebuildBundles prop-types@15.6.2
+1170 info install prop-types@15.6.2
+1171 verbose write writing to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler/package.json
+1172 info postinstall prop-types@15.6.2
+1173 verbose unlock done using /home/anirban/.npm/_locks/object-assign-65300a9cb90bdf69.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/object-assign
+1174 info preinstall scheduler@0.11.3
+1175 verbose unlock done using /home/anirban/.npm/_locks/prop-types-3e0c43dd5f0af5d9.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/prop-types
+1176 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler/package.json
+1177 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler/package.json
+1178 silly install resolved []
+1179 verbose about to build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1180 info build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1181 info linkStuff scheduler@0.11.3
+1182 silly linkStuff scheduler@0.11.3 has /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules as its parent node_modules
+1183 verbose linkBins scheduler@0.11.3
+1184 verbose linkMans scheduler@0.11.3
+1185 verbose rebuildBundles scheduler@0.11.3
+1186 info install scheduler@0.11.3
+1187 info postinstall scheduler@0.11.3
+1188 verbose unlock done using /home/anirban/.npm/_locks/scheduler-bb6ee670c6b16324.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/scheduler
+1189 http 200 https://registry.npmjs.org/js-tokens
+1190 verbose headers { date: 'Sat, 15 Dec 2018 09:35:05 GMT',
+1190 verbose headers   'content-type': 'application/json; charset=UTF-8',
+1190 verbose headers   'transfer-encoding': 'chunked',
+1190 verbose headers   connection: 'keep-alive',
+1190 verbose headers   'set-cookie':
+1190 verbose headers    [ '__cfduid=d6deb7c2c168263ffad60b4b9dade7dc91544866504; expires=Sun, 15-Dec-19 09:35:04 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+1190 verbose headers   'cf-cache-status': 'REVALIDATED',
+1190 verbose headers   'cache-control': 'max-age=300',
+1190 verbose headers   'cf-ray': '4897eb02caca2fab-MAA',
+1190 verbose headers   etag: 'W/"18dc5eb8de2458b03381bd50474e6122"',
+1190 verbose headers   'expect-ct':
+1190 verbose headers    'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+1190 verbose headers   'last-modified': 'Sun, 27 May 2018 05:33:50 GMT',
+1190 verbose headers   vary: 'accept-encoding, accept',
+1190 verbose headers   server: 'cloudflare',
+1190 verbose headers   'content-encoding': 'gzip' }
+1191 silly get cb [ 200,
+1191 silly get   { date: 'Sat, 15 Dec 2018 09:35:05 GMT',
+1191 silly get     'content-type': 'application/json; charset=UTF-8',
+1191 silly get     'transfer-encoding': 'chunked',
+1191 silly get     connection: 'keep-alive',
+1191 silly get     'set-cookie':
+1191 silly get      [ '__cfduid=d6deb7c2c168263ffad60b4b9dade7dc91544866504; expires=Sun, 15-Dec-19 09:35:04 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+1191 silly get     'cf-cache-status': 'REVALIDATED',
+1191 silly get     'cache-control': 'max-age=300',
+1191 silly get     'cf-ray': '4897eb02caca2fab-MAA',
+1191 silly get     etag: 'W/"18dc5eb8de2458b03381bd50474e6122"',
+1191 silly get     'expect-ct':
+1191 silly get      'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+1191 silly get     'last-modified': 'Sun, 27 May 2018 05:33:50 GMT',
+1191 silly get     vary: 'accept-encoding, accept',
+1191 silly get     server: 'cloudflare',
+1191 silly get     'content-encoding': 'gzip' } ]
+1192 verbose get saving js-tokens to /home/anirban/.npm/registry.npmjs.org/js-tokens/.cache.json
+1193 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+1194 silly addNameRange number 2 { name: 'js-tokens',
+1194 silly addNameRange   range: '>=3.0.0 <4.0.0||>=4.0.0 <5.0.0',
+1194 silly addNameRange   hasData: true }
+1195 silly addNameRange versions [ 'js-tokens',
+1195 silly addNameRange   [ '0.1.0',
+1195 silly addNameRange     '0.2.0',
+1195 silly addNameRange     '0.3.0',
+1195 silly addNameRange     '0.3.1',
+1195 silly addNameRange     '0.4.0',
+1195 silly addNameRange     '0.4.1',
+1195 silly addNameRange     '1.0.0',
+1195 silly addNameRange     '1.0.1',
+1195 silly addNameRange     '1.0.2',
+1195 silly addNameRange     '1.0.3',
+1195 silly addNameRange     '2.0.0',
+1195 silly addNameRange     '3.0.0',
+1195 silly addNameRange     '3.0.1',
+1195 silly addNameRange     '3.0.2',
+1195 silly addNameRange     '4.0.0' ] ]
+1196 silly addNamed js-tokens@4.0.0
+1197 verbose addNamed "4.0.0" is a plain semver version for js-tokens
+1198 silly mapToRegistry name js-tokens
+1199 silly mapToRegistry using default registry
+1200 silly mapToRegistry registry https://registry.npmjs.org/
+1201 silly mapToRegistry data Result {
+1201 silly mapToRegistry   raw: 'js-tokens',
+1201 silly mapToRegistry   scope: null,
+1201 silly mapToRegistry   name: 'js-tokens',
+1201 silly mapToRegistry   rawSpec: '',
+1201 silly mapToRegistry   spec: 'latest',
+1201 silly mapToRegistry   type: 'tag' }
+1202 silly mapToRegistry uri https://registry.npmjs.org/js-tokens
+1203 verbose addRemoteTarball https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz not in flight; adding
+1204 verbose addRemoteTarball [ 'https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz',
+1204 verbose addRemoteTarball   '19203fb59991df98e3a287050d4647cdeaf32499' ]
+1205 info retry fetch attempt 1 at 3:05:05 PM
+1206 info attempt registry request try #1 at 3:05:05 PM
+1207 http fetch GET https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz
+1208 http fetch 200 https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz
+1209 silly fetchAndShaCheck shasum 19203fb59991df98e3a287050d4647cdeaf32499
+1210 verbose addTmpTarball /tmp/npm-14325-e7aed13c/registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz not in flight; adding
+1211 verbose addTmpTarball already have metadata; skipping unpack for js-tokens@4.0.0
+1212 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+1213 silly cache afterAdd js-tokens@4.0.0
+1214 verbose afterAdd /home/anirban/.npm/js-tokens/4.0.0/package/package.json not in flight; writing
+1215 verbose correctMkdir /home/anirban/.npm correctMkdir not in flight; initializing
+1216 verbose afterAdd /home/anirban/.npm/js-tokens/4.0.0/package/package.json written
+1217 silly install resolved [ { name: 'js-tokens',
+1217 silly install resolved     version: '4.0.0',
+1217 silly install resolved     author: { name: 'Simon Lydell' },
+1217 silly install resolved     license: 'MIT',
+1217 silly install resolved     description: 'A regex that tokenizes JavaScript.',
+1217 silly install resolved     keywords: [ 'JavaScript', 'js', 'token', 'tokenize', 'regex' ],
+1217 silly install resolved     files: [ 'index.js' ],
+1217 silly install resolved     repository:
+1217 silly install resolved      { type: 'git',
+1217 silly install resolved        url: 'git+https://github.com/lydell/js-tokens.git' },
+1217 silly install resolved     scripts:
+1217 silly install resolved      { test: 'mocha --ui tdd',
+1217 silly install resolved        'esprima-compare': 'node esprima-compare ./index.js everything.js/es5.js',
+1217 silly install resolved        build: 'node generate-index.js',
+1217 silly install resolved        dev: 'npm run build && npm test' },
+1217 silly install resolved     devDependencies:
+1217 silly install resolved      { coffeescript: '2.1.1',
+1217 silly install resolved        esprima: '4.0.0',
+1217 silly install resolved        'everything.js': '1.0.3',
+1217 silly install resolved        mocha: '5.0.0' },
+1217 silly install resolved     gitHead: '0eb6e9daee32160ab0fca979b6dc91a1991b720c',
+1217 silly install resolved     bugs: { url: 'https://github.com/lydell/js-tokens/issues' },
+1217 silly install resolved     homepage: 'https://github.com/lydell/js-tokens#readme',
+1217 silly install resolved     _id: 'js-tokens@4.0.0',
+1217 silly install resolved     _npmVersion: '5.6.0',
+1217 silly install resolved     _nodeVersion: '8.9.4',
+1217 silly install resolved     _npmUser: { name: 'lydell', email: 'simon.lydell@gmail.com' },
+1217 silly install resolved     dist:
+1217 silly install resolved      { integrity:
+1217 silly install resolved         'sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==',
+1217 silly install resolved        shasum: '19203fb59991df98e3a287050d4647cdeaf32499',
+1217 silly install resolved        tarball: 'https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz' },
+1217 silly install resolved     maintainers: [ [Object] ],
+1217 silly install resolved     _npmOperationalInternal:
+1217 silly install resolved      { host: 's3://npm-registry-packages',
+1217 silly install resolved        tmp: 'tmp/js-tokens-4.0.0.tgz_1517140737182_0.3507722308859229' },
+1217 silly install resolved     directories: {},
+1217 silly install resolved     _shasum: '19203fb59991df98e3a287050d4647cdeaf32499',
+1217 silly install resolved     _resolved: 'https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz',
+1217 silly install resolved     _from: 'js-tokens@>=3.0.0 <4.0.0||>=4.0.0 <5.0.0' } ]
+1218 info install js-tokens@4.0.0 into /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1219 info installOne js-tokens@4.0.0
+1220 verbose installOne of js-tokens to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify not in flight; installing
+1221 verbose correctMkdir /home/anirban/.npm/_locks correctMkdir not in flight; initializing
+1222 verbose lock using /home/anirban/.npm/_locks/js-tokens-ce195ac68b59999a.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1223 silly install write writing js-tokens 4.0.0 to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1224 verbose unbuild node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1225 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens is being purged from base /home/anirban/IdeaProjects/TNTS_CRM_2
+1226 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1227 verbose tar unpack /home/anirban/.npm/js-tokens/4.0.0/package.tgz
+1228 verbose tar unpacking to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1229 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens is being purged
+1230 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1231 silly gunzTarPerm modes [ '775', '664' ]
+1232 silly gunzTarPerm extractEntry package.json
+1233 silly gunzTarPerm extractEntry CHANGELOG.md
+1234 silly gunzTarPerm extractEntry index.js
+1235 silly gunzTarPerm extractEntry LICENSE
+1236 silly gunzTarPerm extractEntry README.md
+1237 verbose write writing to /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens/package.json
+1238 info preinstall js-tokens@4.0.0
+1239 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens/package.json
+1240 verbose readDependencies loading dependencies from /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens/package.json
+1241 silly install resolved []
+1242 verbose about to build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1243 info build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1244 info linkStuff js-tokens@4.0.0
+1245 silly linkStuff js-tokens@4.0.0 has /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules as its parent node_modules
+1246 verbose linkBins js-tokens@4.0.0
+1247 verbose linkMans js-tokens@4.0.0
+1248 verbose rebuildBundles js-tokens@4.0.0
+1249 info install js-tokens@4.0.0
+1250 info postinstall js-tokens@4.0.0
+1251 verbose unlock done using /home/anirban/.npm/_locks/js-tokens-ce195ac68b59999a.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify/node_modules/js-tokens
+1252 verbose about to build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1253 info build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1254 info linkStuff loose-envify@1.4.0
+1255 silly linkStuff loose-envify@1.4.0 has /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules as its parent node_modules
+1256 verbose linkBins loose-envify@1.4.0
+1257 verbose link bins [ { 'loose-envify': 'cli.js' },
+1257 verbose link bins   '/home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/.bin',
+1257 verbose link bins   false ]
+1258 verbose linkMans loose-envify@1.4.0
+1259 verbose rebuildBundles loose-envify@1.4.0
+1260 verbose rebuildBundles [ 'js-tokens' ]
+1261 silly gentlyRm /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/.bin/loose-envify is being purged
+1262 verbose gentlyRm don't care about contents; nuking /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/.bin/loose-envify
+1263 info install loose-envify@1.4.0
+1264 info postinstall loose-envify@1.4.0
+1265 verbose unlock done using /home/anirban/.npm/_locks/loose-envify-0d9dd86582a9d48e.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react/node_modules/loose-envify
+1266 verbose about to build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+1267 info build /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+1268 info linkStuff react@16.6.3
+1269 silly linkStuff react@16.6.3 has /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules as its parent node_modules
+1270 verbose linkBins react@16.6.3
+1271 verbose linkMans react@16.6.3
+1272 verbose rebuildBundles react@16.6.3
+1273 verbose rebuildBundles [ '.bin',
+1273 verbose rebuildBundles   'loose-envify',
+1273 verbose rebuildBundles   'object-assign',
+1273 verbose rebuildBundles   'prop-types',
+1273 verbose rebuildBundles   'scheduler' ]
+1274 info install react@16.6.3
+1275 info postinstall react@16.6.3
+1276 verbose unlock done using /home/anirban/.npm/_locks/react-56982215ca30e6dc.lock for /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/react
+1277 verbose validateInstall loading /home/anirban/IdeaProjects/TNTS_CRM_2/package.json for validation
+1278 verbose stack Error: The package acorn@5.7.3 does not satisfy its siblings' peerDependencies requirements!
+1278 verbose stack     at /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/lib/install.js:125:32
+1278 verbose stack     at /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/lib/install.js:268:7
+1278 verbose stack     at /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+1278 verbose stack     at /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+1278 verbose stack     at cb (/home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+1278 verbose stack     at /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+1278 verbose stack     at cb (/home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+1278 verbose stack     at /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+1278 verbose stack     at cb (/home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+1278 verbose stack     at /home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+1279 verbose cwd /home/anirban/IdeaProjects/TNTS_CRM_2
+1280 error Linux 4.15.0-42-generic
+1281 error argv "/usr/bin/node" "/home/anirban/IdeaProjects/TNTS_CRM_2/node_modules/.bin/npm" "install" "--save" "react"
+1282 error node v10.14.1
+1283 error npm  v2.15.12
+1284 error code EPEERINVALID
+1285 error peerinvalid The package acorn@5.7.3 does not satisfy its siblings' peerDependencies requirements!
+1286 verbose exit [ 1, true ]

@@ -1,4 +1,4 @@
-<?php namespace App\Providers;
+<?php namespace TNTS_CRM_2\Providers;
 
 use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;

@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace TNTS_CRM_2\Services;
 
-use App\User;
+use TNTS_CRM_2\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

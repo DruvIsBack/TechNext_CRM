@@ -11,11 +11,19 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
+/*Route::get('/', 'WelcomeController@index');
 
 Route::get('home', 'HomeController@index');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
-]);
+]);*/
+
+Route::get('/admin', function () {
+    return view('admin');
+});
+
+Route::get('/{any}', function ($any) {
+    return view('app');
+})->where('any', '.*');

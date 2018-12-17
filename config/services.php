@@ -30,7 +30,7 @@ return [
 	],
 
 	'stripe' => [
-		'model'  => 'App\User',
+		'model'  => 'TNTS_CRM_2\User',
 		'key' => '',
 		'secret' => '',
 	],

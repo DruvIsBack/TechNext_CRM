@@ -1,4 +1,4 @@
-<?php namespace App\Console\Commands;
+<?php namespace TNTS_CRM_2\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Foundation\Inspiring;

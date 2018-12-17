@@ -1,4 +1,4 @@
-<?php namespace App\Http\Middleware;
+<?php namespace TNTS_CRM_2\Http\Middleware;
 
 use Closure;
 use Illuminate\Foundation\Http\Middleware\VerifyCsrfToken as BaseVerifier;

@@ -1,4 +1,4 @@
-<?php namespace App;
+<?php namespace TNTS_CRM_2;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
