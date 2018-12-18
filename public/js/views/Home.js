@@ -1,11 +1,13 @@
-import React from 'react';
+import React, {Fragment} from 'react';
+import Header from '../components/frames/Login/Header';
+import Footer from '../components/frames/Login/Footer';
+
 export default class Home extends React.Component{
     render(){
         return(
-            <div>
-                <h1>Homepage</h1>
-                <h2>Hi</h2>
-            </div>
+            <Fragment>
+
+            </Fragment>
         );
     }
 }
