@@ -1,20 +1,17 @@
-var debug = process.env.NODE_ENV !== "production";
-var webpack = require('webpack');
-var path = require('path');
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+
+let debug = process.env.NODE_ENV !== "production";
+let webpack = require('webpack');
+let path = require('path');
 module.exports = {
     context: path.join(__dirname, "public"),
-    devtool: debug ? "inline-sourcemap" : null,
     entry: "./js/app.js",
     module: {
-        loaders: [
+        rules: [
             {
-                test: /\.jsx?$/,
+                test: /\.(js|jsx)$/,
                 exclude: /(node_modules|bower_components)/,
                 loader: 'babel-loader',
-                query: {
-                    presets: ['react', 'es2015', 'stage-0'],
-                    plugins: ['react-html-attrs', 'transform-decorators-legacy', 'transform-class-properties'],
-                }
             }
         ]
     },
@@ -22,9 +19,8 @@ module.exports = {
         path: __dirname + "/public/js/",
         filename: "bundle.js"
     },
-    plugins: debug ? [] : [
-        new webpack.optimize.DedupePlugin(),
-        new webpack.optimize.OccurenceOrderPlugin(),
-        new webpack.optimize.UglifyJsPlugin({ mangle: false, sourcemap: false }),
-    ]
+    optimization: {
+        minimizer: [new UglifyJsPlugin()],
+    },
+    watch: true
 };

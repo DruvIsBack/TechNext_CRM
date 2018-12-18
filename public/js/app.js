@@ -1,17 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import {Router, Route, IndexRoute, browserHistory} from "react-router";
-import Layout from "./components/Layout";
-import Home from "./components/Home";
-import Users from "./components/Users";
-import Articles from "./components/Articles";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import Layout from "./views/Layout";
+import Home from "./views/Home";
+
 const app = document.getElementById('app');
 ReactDOM.render(
-<Router history={browserHistory}>
-    <Route path="/" component={Layout}>
-    <IndexRoute component={Home}></IndexRoute>
-    <Route path="users" component={Users}></Route>
-    <Route path="articles" component={Articles}></Route>
-    </Route>
+    <Router>
+        <Route exact path="/" component={Layout}></Route>
+        <Route path="/ok" component={Home}></Route>
     </Router>,
-app);
+    app);
