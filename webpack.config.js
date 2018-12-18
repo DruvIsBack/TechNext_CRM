@@ -1,8 +1,4 @@
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
-const BrowserSyncPlugin = require('browser-sync-webpack-plugin');
-
-let debug = process.env.NODE_ENV !== "production";
-let webpack = require('webpack');
 let path = require('path');
 
 
@@ -19,6 +15,10 @@ module.exports = {
             {
                 test:/\.css$/,
                 use:['style-loader','css-loader']
+            },
+            {
+                test: /\.(pdf|jpg|png|gif|svg|ico)$/,
+                loader: 'url-loader'
             }
         ]
     },

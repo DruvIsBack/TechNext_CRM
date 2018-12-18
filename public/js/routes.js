@@ -17,7 +17,7 @@ export default class Routes extends React.Component{
                 <Switch>
                     <Route exact path="/" component={Home} />
                     <Route exact path="/login" component={Login} />
-                    <Route component={NoMatch} />
+                    {/*<Route component={NoMatch} />*/}
                 </Switch>
             </Fragment>
         );
